@@ -1,0 +1,858 @@
+match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,match_id
+RR vs SRH,SRH,Abhishek Sharma,4,0,24,2,6,8,2,0,0,0,IPL24 #70
+SRH vs RCB,SRH,Abhishek Sharma,1,0,10,0,10,0,1,0,0,0,IPL24 #41
+RCB vs SRH,SRH,Abhishek Sharma,1,0,10,0,10,2,2,0,0,0,IPL24 #30
+SRH vs CSK,SRH,Abhishek Sharma,1,0,7,0,7,2,1,0,0,0,IPL24 #18
+KKR vs SRH,SRH,Aiden Markram,1,0,5,0,5,2,0,0,0,0,IPL24 #71
+RR vs SRH,SRH,Aiden Markram,1,0,10,0,10,2,0,1,0,1,IPL24 #70
+MI vs RCB,RCB,Akash Deep,3.3,0,55,1,15.71,6,2,6,2,0,IPL24 #25
+Punjab Kings vs MI,MI,Akash Madhwal,3.1,0,46,1,14.52,7,2,4,4,1,IPL24 #33
+MI vs CSK,MI,Akash Madhwal,3,0,37,0,12.33,4,4,2,0,0,IPL24 #29
+MI vs RCB,MI,Akash Madhwal,4,0,57,1,14.25,7,9,2,3,0,IPL24 #25
+MI vs DC,MI,Akash Madhwal,4,0,45,0,11.25,9,7,1,0,1,IPL24 #20
+MI vs RR,MI,Akash Madhwal,4,0,20,3,5,9,1,0,1,0,IPL24 #14
+RCB vs KKR,RCB,Alzarri Joseph,2,0,34,0,17,5,2,4,0,0,IPL24 #10
+RCB vs Punjab Kings,RCB,Alzarri Joseph,4,0,43,1,10.75,8,4,2,2,0,IPL24 #6
+CSK vs RCB,RCB,Alzarri Joseph,3.4,0,38,0,10.36,5,1,2,4,0,IPL24 #1
+LSG vs RR,LSG,Amit Mishra,2,0,20,1,10,5,1,2,0,0,IPL24 #44
+KKR vs SRH,KKR,Andre Russell,2.3,0,19,3,7.6,7,1,1,1,0,IPL24 #71
+KKR vs SRH,KKR,Andre Russell,1.3,0,15,1,10,2,2,0,0,0,IPL24 #68
+KKr vs MI,KKR,Andre Russell,3,0,34,2,11.33,5,3,2,2,0,IPL24 #60
+LSG vs KKR,KKR,Andre Russell,2,0,17,2,8.5,4,0,1,3,0,IPL24 #54
+MI vs KKR,KKR,Andre Russell,4,0,30,2,7.5,11,1,2,1,0,IPL24 #51
+KKR vs DC,KKR,Andre Russell,1,0,10,0,10,3,2,0,0,0,IPL24 #47
+KKR vs Punjab Kings,KKR,Andre Russell,2,0,36,0,18,2,1,4,2,0,IPL24 #42
+KKR vs RCB,KKR,Andre Russell,3,0,25,3,8.33,10,3,1,1,0,IPL24 #36
+KKR vs RR,KKR,Andre Russell,1,0,17,0,17,0,0,2,0,0,IPL24 #31
+KKR vs LSG,KKR,Andre Russell,1,0,16,1,16,2,2,1,0,0,IPL24 #28
+CSK vs KKR,KKR,Andre Russell,1,0,8,0,8,2,1,0,1,0,IPL24 #22
+DC vs KKR,KKR,Andre Russell,1.2,0,14,1,10.5,4,0,2,0,0,IPL24 #16
+RCB vs KKR,KKR,Andre Russell,4,0,29,2,7.25,12,0,3,1,0,IPL24 #10
+KKR vs SRH,KKR,Andre Russell,2,0,25,2,12.5,4,4,1,0,0,IPL24 #3
+DC vs GT,DC,Anrich Nortje,3,0,48,1,16,6,5,4,0,0,IPL24 #40
+DC vs SRH,DC,Anrich Nortje,3,0,31,0,10.33,6,4,1,1,0,IPL24 #35
+MI vs DC,DC,Anrich Nortje,4,0,65,2,16.25,7,4,6,3,1,IPL24 #20
+DC vs KKR,DC,Anrich Nortje,4,0,59,3,14.75,6,5,4,2,0,IPL24 #16
+DC vs CSK,DC,Anrich Nortje,4,0,43,0,10.75,7,3,3,1,0,IPL24 #13
+RR vs DC,DC,Anrich Nortje,4,0,48,1,12,8,4,4,0,0,IPL24 #9
+MI vs LSG,MI,Anshul Kamboj,3,0,48,0,16,4,5,3,4,0,IPL24 #65
+KKr vs MI,MI,Anshul Kamboj,3,0,24,1,8,7,2,1,1,0,IPL24 #60
+MI vs SRH,MI,Anshul Kamboj,4,0,42,1,10.5,9,3,2,1,2,IPL24 #55
+KKR vs Punjab Kings,KKR,Anukul Roy,2,0,36,0,18,2,5,2,0,0,IPL24 #42
+CSK vs KKR,KKR,Anukul Roy,1.4,0,18,0,10.8,4,4,0,0,0,IPL24 #22
+RCB vs KKR,KKR,Anukul Roy,2,0,6,0,3,7,0,0,0,0,IPL24 #10
+MI vs LSG,MI,Arjun Tendulkar,2.2,0,22,0,9.42,7,1,2,1,0,IPL24 #65
+MI vs LSG,LSG,Arshad Khan,2,0,11,0,5.5,7,1,0,2,0,IPL24 #65
+DC vs LSG,LSG,Arshad Khan,3,0,45,1,15,5,5,2,5,0,IPL24 #63
+KKR vs LSG,LSG,Arshad Khan,2,0,24,0,12,5,5,0,1,0,IPL24 #28
+LSG vs DC,LSG,Arshad Khan,3.1,0,34,0,10.73,7,4,2,0,0,IPL24 #26
+SRH vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,37,2,9.25,10,5,1,1,0,IPL24 #67
+RR vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,31,1,7.75,12,6,0,0,0,IPL24 #64
+Punjab Kings vs RCB,Punjab Kings,Arshdeep Singh,3,0,41,1,13.66,5,3,3,2,0,IPL24 #58
+Punjab Kings vs CSK,Punjab Kings,Arshdeep Singh,4,0,42,2,10.5,7,4,2,1,0,IPL24 #53
+CSK vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,52,1,13,8,7,2,5,0,IPL24 #49
+KKR vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,45,2,11.25,10,3,3,5,0,IPL24 #42
+Punjab Kings vs GT,Punjab Kings,Arshdeep Singh,2.1,0,17,1,7.84,3,2,0,0,0,IPL24 #37
+Punjab Kings vs MI,Punjab Kings,Arshdeep Singh,3,0,35,0,11.66,4,5,1,1,0,IPL24 #33
+Punjab Kings vs RR,Punjab Kings,Arshdeep Singh,3.5,0,45,1,11.73,8,3,3,1,0,IPL24 #27
+Punjab Kings vs SRH,Punjab Kings,Arshdeep Singh,4,0,29,4,7.25,12,3,1,2,0,IPL24 #23
+GT vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,33,0,8.25,6,4,0,0,0,IPL24 #17
+LSG vs Punjab Kings,Punjab Kings,Arshdeep Singh,3,0,30,2,10,5,3,1,1,0,IPL24 #11
+RCB vs Punjab Kings,Punjab Kings,Arshdeep Singh,3.2,0,40,0,12,9,5,2,3,0,IPL24 #6
+Punjab Kings vs DC,Punjab Kings,Arshdeep Singh,4,0,28,2,7,15,2,2,2,0,IPL24 #2
+SRH vs Punjab Kings,Punjab Kings,Atharva Taide,0.1,0,4,0,24,0,1,0,0,0,IPL24 #67
+RR vs SRH,RR,Avesh Khan,4,0,27,3,6.75,11,2,1,2,0,IPL24 #70
+RR vs RCB,RR,Avesh Khan,4,0,44,3,11,6,5,2,0,0,IPL24 #69
+RR vs Punjab Kings,RR,Avesh Khan,3.5,0,28,2,7.3,9,1,2,0,0,IPL24 #64
+CSK vs RR,RR,Avesh Khan,2,0,12,0,6,3,0,0,1,0,IPL24 #61
+DC vs RR,RR,Avesh Khan,2,0,42,0,21,0,5,3,0,0,IPL24 #56
+SRH vs RR,RR,Avesh Khan,4,0,39,2,9.75,12,3,3,3,0,IPL24 #50
+LSG vs RR,RR,Avesh Khan,4,0,42,1,10.5,7,2,2,1,1,IPL24 #44
+RR vs MI,RR,Avesh Khan,4,0,49,1,12.25,7,4,3,3,0,IPL24 #38
+KKR vs RR,RR,Avesh Khan,4,0,35,2,8.75,10,5,1,1,0,IPL24 #31
+Punjab Kings vs RR,RR,Avesh Khan,4,0,34,2,8.5,8,2,2,0,0,IPL24 #27
+RR vs GT,RR,Avesh Khan,4,0,48,1,12,3,4,2,2,0,IPL24 #24
+RR vs RCB,RR,Avesh Khan,4,0,46,0,11.5,3,8,0,0,0,IPL24 #19
+MI vs RR,RR,Avesh Khan,4,0,30,1,7.5,10,2,1,1,0,IPL24 #14
+RR vs DC,RR,Avesh Khan,4,0,29,1,7.25,8,4,0,1,0,IPL24 #9
+RR vs LSG,RR,Avesh Khan,3,0,21,0,7,4,0,1,1,0,IPL24 #4
+DC vs LSG,DC,Axar Patel,1,0,20,1,20,2,2,2,0,0,IPL24 #63
+RCB vs DC,DC,Axar Patel,3,0,24,0,8,5,0,2,0,0,IPL24 #62
+DC vs RR,DC,Axar Patel,3,0,25,1,8.33,9,2,2,0,0,IPL24 #56
+KKR vs DC,DC,Axar Patel,4,0,25,2,6.25,10,3,0,0,0,IPL24 #47
+DC vs MI,DC,Axar Patel,2,0,24,0,12,1,1,2,0,0,IPL24 #43
+DC vs GT,DC,Axar Patel,3,0,28,1,9.33,4,2,1,0,0,IPL24 #40
+DC vs SRH,DC,Axar Patel,4,0,29,1,7.25,4,1,1,0,0,IPL24 #35
+GT vs DC,DC,Axar Patel,4,0,17,1,4.25,13,1,0,1,0,IPL24 #32
+LSG vs DC,DC,Axar Patel,4,0,26,0,6.5,7,2,0,0,0,IPL24 #26
+MI vs DC,DC,Axar Patel,4,0,35,2,8.75,8,3,2,0,0,IPL24 #20
+DC vs KKR,DC,Axar Patel,1,0,18,0,18,1,1,2,0,0,IPL24 #16
+DC vs CSK,DC,Axar Patel,3,0,20,1,6.66,5,0,1,0,0,IPL24 #13
+RR vs DC,DC,Axar Patel,4,0,21,1,5.25,6,1,0,0,0,IPL24 #9
+Punjab Kings vs DC,DC,Axar Patel,4,0,25,0,6.25,5,1,0,0,0,IPL24 #2
+SRH vs LSG,LSG,Ayush Badoni,1,0,19,0,19,0,1,2,0,0,IPL24 #57
+RR vs LSG,LSG,Ayush Badoni,1,0,6,0,6,1,0,0,0,0,IPL24 #4
+GT vs RCB,GT,Azmatullah Omarzai,2,0,18,0,9,7,1,2,0,0,IPL24 #45
+DC vs GT,GT,Azmatullah Omarzai,4,0,33,0,8.25,11,5,1,0,0,IPL24 #40
+Punjab Kings vs GT,GT,Azmatullah Omarzai,2,0,13,0,6.5,7,1,1,0,0,IPL24 #37
+GT vs Punjab Kings,GT,Azmatullah Omarzai,4,0,41,1,10.25,6,7,0,1,0,IPL24 #17
+GT vs SRH,GT,Azmatullah Omarzai,3,0,24,1,8,9,4,0,1,0,IPL24 #12
+CSK vs GT,GT,Azmatullah Omarzai,3,0,30,0,10,7,4,1,1,0,IPL24 #7
+GT vs MI,GT,Azmatullah Omarzai,3,0,27,2,9,10,4,1,2,0,IPL24 #5
+KKR vs SRH,SRH,Bhuvneshwar Kumar,2,0,25,0,12.5,5,2,2,1,0,IPL24 #71
+RR vs SRH,SRH,Bhuvneshwar Kumar,3,0,33,0,11,7,4,2,0,0,IPL24 #70
+KKR vs SRH,SRH,Bhuvneshwar Kumar,3,0,28,0,9.33,9,4,1,0,0,IPL24 #68
+SRH vs Punjab Kings,SRH,Bhuvneshwar Kumar,4,0,36,0,9,8,4,1,0,0,IPL24 #67
+SRH vs LSG,SRH,Bhuvneshwar Kumar,4,0,12,2,3,12,0,0,0,0,IPL24 #57
+MI vs SRH,SRH,Bhuvneshwar Kumar,4,1,22,1,5.5,17,3,1,1,0,IPL24 #55
+SRH vs RR,SRH,Bhuvneshwar Kumar,4,0,41,3,10.25,8,4,2,0,0,IPL24 #50
+CSK vs SRH,SRH,Bhuvneshwar Kumar,4,0,38,1,9.5,7,5,1,0,0,IPL24 #46
+SRH vs RCB,SRH,Bhuvneshwar Kumar,1,0,14,0,14,1,3,0,0,0,IPL24 #41
+DC vs SRH,SRH,Bhuvneshwar Kumar,4,0,33,1,8.25,10,5,0,3,0,IPL24 #35
+RCB vs SRH,SRH,Bhuvneshwar Kumar,4,0,60,0,15,5,9,2,4,0,IPL24 #30
+Punjab Kings vs SRH,SRH,Bhuvneshwar Kumar,4,1,32,2,8,13,6,0,2,0,IPL24 #23
+SRH vs CSK,SRH,Bhuvneshwar Kumar,4,0,28,1,7,11,3,1,0,0,IPL24 #18
+GT vs SRH,SRH,Bhuvneshwar Kumar,4,0,27,0,6.75,9,3,0,1,0,IPL24 #12
+SRH vs MI,SRH,Bhuvneshwar Kumar,4,0,53,0,13.25,7,3,5,0,0,IPL24 #8
+KKR vs SRH,SRH,Bhuvneshwar Kumar,4,0,51,0,12.75,7,4,3,2,1,IPL24 #3
+RR vs RCB,RCB,Cameron Green,4,0,28,1,7,9,1,2,0,0,IPL24 #69
+RCB vs CSK,RCB,Cameron Green,2,0,18,1,9,3,2,0,1,0,IPL24 #66
+RCB vs DC,RCB,Cameron Green,4,0,19,1,4.75,12,1,0,2,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Cameron Green,1,0,16,0,16,1,2,1,0,0,IPL24 #58
+RCB vs GT,RCB,Cameron Green,4,0,28,1,7,11,3,1,0,0,IPL24 #52
+GT vs RCB,RCB,Cameron Green,3,0,42,0,14,2,5,2,1,0,IPL24 #45
+SRH vs RCB,RCB,Cameron Green,2,0,12,2,6,7,2,0,1,0,IPL24 #41
+KKR vs RCB,RCB,Cameron Green,4,0,35,2,8.75,9,6,0,2,0,IPL24 #36
+RR vs RCB,RCB,Cameron Green,3.1,0,27,0,8.52,5,1,1,1,0,IPL24 #19
+RCB vs LSG,RCB,Cameron Green,2,0,25,0,12.5,3,2,2,0,0,IPL24 #15
+RCB vs KKR,RCB,Cameron Green,1,0,7,0,7,2,1,0,0,0,IPL24 #10
+RCB vs Punjab Kings,RCB,Cameron Green,2,0,19,0,9.5,3,1,1,1,0,IPL24 #6
+CSK vs RCB,RCB,Cameron Green,3,0,27,2,9,5,1,1,3,0,IPL24 #1
+LSG vs GT,GT,Darshan Nalkande,2,0,21,2,10.5,2,0,2,0,0,IPL24 #21
+GT vs Punjab Kings,GT,Darshan Nalkande,0.5,0,6,1,7.2,3,1,0,1,0,IPL24 #17
+GT vs SRH,GT,Darshan Nalkande,2,0,18,0,9,2,0,1,1,0,IPL24 #12
+GT vs CSK,CSK,Daryl Mitchell,4,0,52,0,13,2,4,3,1,0,IPL24 #59
+CSK vs GT,CSK,Daryl Mitchell,2,0,18,1,9,2,2,0,1,0,IPL24 #7
+CSK vs Punjab Kings,CSK,Deepak Chahar,0.2,0,4,0,12,1,1,0,0,0,IPL24 #49
+CSK vs SRH,CSK,Deepak Chahar,3,0,22,0,7.33,5,3,0,0,0,IPL24 #46
+CSK vs LSG,CSK,Deepak Chahar,2,0,11,1,5.5,7,2,0,0,0,IPL24 #39
+LSG vs CSK,CSK,Deepak Chahar,3,0,26,0,8.66,8,2,2,0,0,IPL24 #34
+SRH vs CSK,CSK,Deepak Chahar,3.1,0,32,1,10.1,9,2,3,0,0,IPL24 #18
+DC vs CSK,CSK,Deepak Chahar,4,0,42,0,10.5,9,3,3,0,0,IPL24 #13
+CSK vs GT,CSK,Deepak Chahar,4,0,28,2,7,11,2,1,3,0,IPL24 #7
+CSK vs RCB,CSK,Deepak Chahar,4,0,37,1,9.25,10,7,0,2,0,IPL24 #1
+DC vs LSG,LSG,Deepak Hooda,1,0,9,0,9,1,1,0,1,0,IPL24 #63
+LSG vs MI,LSG,Deepak Hooda,2,0,13,0,6.5,3,1,0,0,0,IPL24 #48
+KKR vs Punjab Kings,KKR,Dushmantha Chameera,3,0,48,0,16,6,3,5,1,0,IPL24 #42
+MI vs KKR,MI,Gerald Coetzee,2,0,24,0,12,3,3,1,0,0,IPL24 #51
+LSG vs MI,MI,Gerald Coetzee,3,0,29,1,9.66,6,4,0,3,0,IPL24 #48
+RR vs MI,MI,Gerald Coetzee,2,0,25,0,12.5,7,2,2,3,0,IPL24 #38
+Punjab Kings vs MI,MI,Gerald Coetzee,4,0,32,3,8,13,5,0,2,0,IPL24 #33
+MI vs CSK,MI,Gerald Coetzee,4,0,35,1,8.75,13,4,2,1,0,IPL24 #29
+MI vs RCB,MI,Gerald Coetzee,4,0,42,1,10.5,13,1,5,3,0,IPL24 #25
+MI vs DC,MI,Gerald Coetzee,4,0,34,4,8.5,11,3,2,0,0,IPL24 #20
+MI vs RR,MI,Gerald Coetzee,2.3,0,36,0,14.4,5,5,2,0,0,IPL24 #14
+SRH vs MI,MI,Gerald Coetzee,4,0,57,1,14.25,3,4,3,2,1,IPL24 #8
+GT vs MI,MI,Gerald Coetzee,4,0,27,2,6.75,7,2,0,0,0,IPL24 #5
+RCB vs CSK,RCB,Glenn Maxwell,4,0,25,1,6.25,7,1,0,1,0,IPL24 #66
+GT vs RCB,RCB,Glenn Maxwell,3,0,28,1,9.33,5,1,2,0,0,IPL24 #45
+MI vs RCB,RCB,Glenn Maxwell,1,0,17,0,17,0,2,1,0,0,IPL24 #25
+RCB vs LSG,RCB,Glenn Maxwell,4,0,23,2,5.75,12,0,2,1,0,IPL24 #15
+RCB vs Punjab Kings,RCB,Glenn Maxwell,3,0,29,2,9.66,6,2,2,0,0,IPL24 #6
+CSK vs RCB,RCB,Glenn Maxwell,1,0,7,0,7,4,0,1,0,0,IPL24 #1
+DC vs LSG,DC,Gulbadin Naib,1,0,12,0,12,1,2,0,0,0,IPL24 #63
+MI vs LSG,MI,Hardik Pandya,2,0,27,0,13.5,1,1,2,0,0,IPL24 #65
+KKr vs MI,MI,Hardik Pandya,3,0,32,0,10.66,6,3,2,0,0,IPL24 #60
+MI vs SRH,MI,Hardik Pandya,4,0,31,3,7.75,7,4,0,1,0,IPL24 #55
+MI vs KKR,MI,Hardik Pandya,4,0,44,2,11,9,2,4,1,0,IPL24 #51
+LSG vs MI,MI,Hardik Pandya,4,0,26,2,6.5,8,2,0,1,0,IPL24 #48
+DC vs MI,MI,Hardik Pandya,2,0,41,0,20.5,4,3,4,0,0,IPL24 #43
+RR vs MI,MI,Hardik Pandya,2,0,21,0,10.5,3,2,1,0,0,IPL24 #38
+Punjab Kings vs MI,MI,Hardik Pandya,4,0,33,1,8.25,9,1,2,3,0,IPL24 #33
+MI vs CSK,MI,Hardik Pandya,3,0,43,2,14.33,6,4,3,2,0,IPL24 #29
+MI vs RCB,MI,Hardik Pandya,1,0,13,0,13,2,0,1,2,0,IPL24 #25
+SRH vs MI,MI,Hardik Pandya,4,0,46,1,11.5,5,5,2,0,0,IPL24 #8
+GT vs MI,MI,Hardik Pandya,3,0,30,0,10,5,5,0,0,0,IPL24 #5
+SRH vs Punjab Kings,Punjab Kings,Harpreet Brar,3,0,36,1,12,7,0,4,1,0,IPL24 #67
+RR vs Punjab Kings,Punjab Kings,Harpreet Brar,1,0,10,0,10,1,1,0,0,0,IPL24 #64
+Punjab Kings vs CSK,Punjab Kings,Harpreet Brar,1,0,19,0,19,1,3,1,0,0,IPL24 #53
+CSK vs Punjab Kings,Punjab Kings,Harpreet Brar,4,0,17,2,4.25,10,0,0,1,0,IPL24 #49
+KKR vs Punjab Kings,Punjab Kings,Harpreet Brar,2,0,21,0,10.5,3,0,2,0,0,IPL24 #42
+Punjab Kings vs GT,Punjab Kings,Harpreet Brar,4,0,35,0,8.75,7,3,1,0,0,IPL24 #37
+Punjab Kings vs MI,Punjab Kings,Harpreet Brar,3,0,21,0,7,3,1,0,0,0,IPL24 #33
+Punjab Kings vs RR,Punjab Kings,Harpreet Brar,3,0,22,0,7.33,2,1,0,0,0,IPL24 #27
+Punjab Kings vs SRH,Punjab Kings,Harpreet Brar,4,0,48,0,12,7,5,3,0,0,IPL24 #23
+GT vs Punjab Kings,Punjab Kings,Harpreet Brar,4,0,33,1,8.25,10,3,1,0,0,IPL24 #17
+LSG vs Punjab Kings,Punjab Kings,Harpreet Brar,2,0,14,0,7,4,0,1,0,0,IPL24 #11
+RCB vs Punjab Kings,Punjab Kings,Harpreet Brar,4,0,13,2,3.25,12,0,0,0,0,IPL24 #6
+Punjab Kings vs DC,Punjab Kings,Harpreet Brar,3,0,14,1,4.66,7,1,0,0,0,IPL24 #2
+SRH vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,49,2,12.25,6,5,2,2,1,IPL24 #67
+RR vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,28,2,7,8,2,0,1,0,IPL24 #64
+Punjab Kings vs RCB,Punjab Kings,Harshal Patel,4,0,38,3,9.5,7,5,1,1,0,IPL24 #58
+Punjab Kings vs CSK,Punjab Kings,Harshal Patel,4,0,24,3,6,10,2,0,2,0,IPL24 #53
+CSK vs Punjab Kings,Punjab Kings,Harshal Patel,1,0,12,0,12,0,0,0,1,0,IPL24 #49
+KKR vs Punjab Kings,Punjab Kings,Harshal Patel,3,0,48,1,16,6,3,5,1,1,IPL24 #42
+Punjab Kings vs GT,Punjab Kings,Harshal Patel,3,0,15,3,5,8,1,0,0,0,IPL24 #37
+Punjab Kings vs MI,Punjab Kings,Harshal Patel,4,0,31,3,7.75,9,1,2,2,0,IPL24 #33
+Punjab Kings vs RR,Punjab Kings,Harshal Patel,2,0,21,1,10.5,1,1,1,0,0,IPL24 #27
+Punjab Kings vs SRH,Punjab Kings,Harshal Patel,4,0,30,2,7.5,8,4,0,1,0,IPL24 #23
+GT vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,44,1,11,3,2,2,3,0,IPL24 #17
+LSG vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,45,0,11.25,6,5,1,4,0,IPL24 #11
+RCB vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,45,1,11.25,6,4,2,3,0,IPL24 #6
+Punjab Kings vs DC,Punjab Kings,Harshal Patel,4,0,47,2,11.75,7,6,2,0,0,IPL24 #2
+KKR vs SRH,KKR,Harshit Rana,4,1,24,2,6,13,2,1,1,0,IPL24 #71
+KKR vs SRH,KKR,Harshit Rana,4,0,27,1,6.75,9,2,1,1,0,IPL24 #68
+KKr vs MI,KKR,Harshit Rana,3,0,34,2,11.33,7,4,2,1,0,IPL24 #60
+LSG vs KKR,KKR,Harshit Rana,3.1,0,24,3,7.57,8,2,1,1,0,IPL24 #54
+KKR vs DC,KKR,Harshit Rana,4,0,28,2,7,11,3,1,1,0,IPL24 #47
+KKR vs Punjab Kings,KKR,Harshit Rana,4,0,61,0,15.25,5,3,6,1,0,IPL24 #42
+KKR vs RCB,KKR,Harshit Rana,4,0,33,2,8.25,9,2,2,1,0,IPL24 #36
+KKR vs RR,KKR,Harshit Rana,4,0,45,2,11.25,6,3,3,1,0,IPL24 #31
+KKR vs LSG,KKR,Harshit Rana,4,0,35,0,8.75,9,4,1,2,0,IPL24 #28
+RCB vs KKR,KKR,Harshit Rana,4,0,39,2,9.75,6,2,2,1,0,IPL24 #10
+KKR vs SRH,KKR,Harshit Rana,4,0,33,3,8.25,12,3,2,0,0,IPL24 #3
+RR vs RCB,RCB,Himanshu Sharma,2,0,29,0,14.5,0,3,1,0,0,IPL24 #19
+DC vs LSG,DC,Ishant Sharma,4,0,34,3,8.5,10,4,1,2,0,IPL24 #63
+RCB vs DC,DC,Ishant Sharma,3,0,31,1,10.33,5,1,2,3,0,IPL24 #62
+DC vs RR,DC,Ishant Sharma,3,0,34,0,11.33,7,4,2,1,0,IPL24 #56
+GT vs DC,DC,Ishant Sharma,2,0,8,2,4,9,1,0,1,0,IPL24 #32
+LSG vs DC,DC,Ishant Sharma,4,0,36,1,9,6,4,0,4,0,IPL24 #26
+MI vs DC,DC,Ishant Sharma,3,0,40,0,13.33,5,4,1,4,0,IPL24 #20
+DC vs KKR,DC,Ishant Sharma,3,0,43,2,14.33,6,5,3,0,0,IPL24 #16
+DC vs CSK,DC,Ishant Sharma,3,0,23,0,7.66,7,3,0,1,1,IPL24 #13
+Punjab Kings vs DC,DC,Ishant Sharma,2,0,16,1,8,8,3,0,3,0,IPL24 #2
+KKr vs MI,MI,Jasprit Bumrah,4,0,39,2,9.75,10,5,2,0,0,IPL24 #60
+MI vs SRH,MI,Jasprit Bumrah,4,0,23,1,5.75,9,2,0,1,0,IPL24 #55
+MI vs KKR,MI,Jasprit Bumrah,3.5,0,18,3,4.69,15,1,1,0,0,IPL24 #51
+LSG vs MI,MI,Jasprit Bumrah,4,0,17,0,4.25,16,1,1,0,0,IPL24 #48
+DC vs MI,MI,Jasprit Bumrah,4,0,35,1,8.75,10,2,2,2,1,IPL24 #43
+RR vs MI,MI,Jasprit Bumrah,4,0,37,0,9.25,10,5,1,1,1,IPL24 #38
+Punjab Kings vs MI,MI,Jasprit Bumrah,4,0,21,3,5.25,13,1,1,1,1,IPL24 #33
+MI vs CSK,MI,Jasprit Bumrah,4,0,27,0,6.75,8,2,0,2,0,IPL24 #29
+MI vs RCB,MI,Jasprit Bumrah,4,0,21,5,5.25,13,1,1,0,0,IPL24 #25
+MI vs DC,MI,Jasprit Bumrah,4,0,22,2,5.5,11,3,0,0,0,IPL24 #20
+MI vs RR,MI,Jasprit Bumrah,4,0,26,0,6.5,16,3,0,5,0,IPL24 #14
+SRH vs MI,MI,Jasprit Bumrah,4,0,36,0,9,4,2,1,1,1,IPL24 #8
+GT vs MI,MI,Jasprit Bumrah,4,0,14,3,3.5,14,1,0,0,0,IPL24 #5
+KKR vs SRH,SRH,Jaydev Unadkat,1,0,9,0,9,1,1,0,0,0,IPL24 #71
+RR vs SRH,SRH,Jaydev Unadkat,1,0,5,0,5,2,0,0,1,0,IPL24 #70
+SRH vs LSG,SRH,Jaydev Unadkat,2,0,19,0,9.5,4,0,2,0,0,IPL24 #57
+SRH vs RR,SRH,Jaydev Unadkat,2,0,23,0,11.5,2,1,1,2,0,IPL24 #50
+CSK vs SRH,SRH,Jaydev Unadkat,4,0,38,1,9.5,3,2,1,1,0,IPL24 #46
+SRH vs RCB,SRH,Jaydev Unadkat,4,0,30,3,7.5,5,2,0,2,0,IPL24 #41
+RCB vs SRH,SRH,Jaydev Unadkat,2,0,37,0,18.5,1,5,2,1,0,IPL24 #30
+Punjab Kings vs SRH,SRH,Jaydev Unadkat,4,0,49,1,12.25,7,0,5,3,0,IPL24 #23
+SRH vs CSK,SRH,Jaydev Unadkat,4,0,29,1,7.25,8,3,0,1,0,IPL24 #18
+GT vs SRH,SRH,Jaydev Unadkat,3.1,0,33,0,10.42,5,3,2,0,0,IPL24 #12
+SRH vs MI,SRH,Jaydev Unadkat,4,0,47,2,11.75,6,4,3,2,0,IPL24 #8
+MI vs DC,DC,Jhye Richardson,4,0,40,0,10,8,2,3,1,0,IPL24 #20
+RCB vs GT,GT,Joshua Little,4,0,45,4,11.25,9,6,2,1,0,IPL24 #52
+Punjab Kings vs CSK,Punjab Kings,Kagiso Rabada,3,0,24,0,8,7,3,0,1,0,IPL24 #53
+CSK vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,23,1,5.75,9,2,0,1,0,IPL24 #49
+KKR vs Punjab Kings,Punjab Kings,Kagiso Rabada,3,0,52,0,17.33,2,7,2,4,0,IPL24 #42
+Punjab Kings vs GT,Punjab Kings,Kagiso Rabada,4,0,40,0,10,8,6,1,0,0,IPL24 #37
+Punjab Kings vs MI,Punjab Kings,Kagiso Rabada,4,0,42,1,10.5,7,3,3,0,0,IPL24 #33
+Punjab Kings vs RR,Punjab Kings,Kagiso Rabada,4,0,18,2,4.5,14,2,0,0,0,IPL24 #27
+Punjab Kings vs SRH,Punjab Kings,Kagiso Rabada,4,0,32,1,8,13,4,1,1,0,IPL24 #23
+GT vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,44,2,11,6,5,2,1,0,IPL24 #17
+LSG vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,38,1,9.5,10,4,2,0,0,IPL24 #11
+RCB vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,23,2,5.75,13,3,0,1,0,IPL24 #6
+Punjab Kings vs DC,Punjab Kings,Kagiso Rabada,4,0,36,1,9,12,1,4,1,0,IPL24 #2
+RR vs RCB,RCB,Karn Sharma,2,0,19,1,9.5,1,2,0,2,0,IPL24 #69
+RCB vs CSK,RCB,Karn Sharma,1,0,14,0,14,0,1,1,0,0,IPL24 #66
+RCB vs DC,RCB,Karn Sharma,2,0,19,0,9.5,2,1,1,0,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Karn Sharma,3,0,36,2,12,7,3,3,0,0,IPL24 #58
+RCB vs GT,RCB,Karn Sharma,3,0,42,1,14,6,5,3,0,0,IPL24 #52
+GT vs RCB,RCB,Karn Sharma,3,0,38,0,12.66,4,1,4,1,0,IPL24 #45
+SRH vs RCB,RCB,Karn Sharma,4,0,29,2,7.25,10,2,1,2,0,IPL24 #41
+KKR vs RCB,RCB,Karn Sharma,4,0,33,0,8.25,7,3,1,0,0,IPL24 #36
+CSK vs RCB,RCB,Karn Sharma,2,0,24,1,12,4,0,3,0,0,IPL24 #1
+GT vs CSK,GT,Kartik Tyagi,4,0,51,0,12.75,5,6,2,2,0,IPL24 #59
+Punjab Kings vs RR,RR,Keshav Maharaj,4,0,23,2,5.75,8,2,0,0,0,IPL24 #27
+RR vs GT,RR,Keshav Maharaj,2,0,16,0,8,3,0,1,0,0,IPL24 #24
+DC vs LSG,DC,Khaleel Ahmed,2,0,22,1,11,7,2,2,1,0,IPL24 #63
+RCB vs DC,DC,Khaleel Ahmed,4,0,31,2,7.75,9,3,1,0,0,IPL24 #62
+DC vs RR,DC,Khaleel Ahmed,4,0,47,2,11.75,9,5,2,7,0,IPL24 #56
+KKR vs DC,DC,Khaleel Ahmed,3,0,28,0,9.33,9,4,1,0,0,IPL24 #47
+DC vs MI,DC,Khaleel Ahmed,4,0,45,2,11.25,7,4,3,0,0,IPL24 #43
+DC vs GT,DC,Khaleel Ahmed,2,0,26,0,13,2,3,1,1,0,IPL24 #40
+DC vs SRH,DC,Khaleel Ahmed,3,0,51,0,17,4,4,5,0,0,IPL24 #35
+GT vs DC,DC,Khaleel Ahmed,4,1,18,1,4.5,16,3,0,1,0,IPL24 #32
+LSG vs DC,DC,Khaleel Ahmed,4,0,41,2,10.25,11,5,2,1,0,IPL24 #26
+MI vs DC,DC,Khaleel Ahmed,4,0,39,1,9.75,8,3,2,0,0,IPL24 #20
+DC vs KKR,DC,Khaleel Ahmed,4,0,43,1,10.75,12,3,2,6,1,IPL24 #16
+DC vs CSK,DC,Khaleel Ahmed,4,1,21,2,5.25,15,1,1,4,0,IPL24 #13
+RR vs DC,DC,Khaleel Ahmed,4,0,24,1,6,14,2,1,2,0,IPL24 #9
+Punjab Kings vs DC,DC,Khaleel Ahmed,4,0,43,2,10.75,7,8,0,0,0,IPL24 #2
+SRH vs LSG,LSG,Krishnappa Gowtham,2,0,29,0,14.5,5,2,3,1,0,IPL24 #57
+MI vs LSG,LSG,Krunal Pandya,4,0,29,1,7.25,10,1,2,1,0,IPL24 #65
+DC vs LSG,LSG,Krunal Pandya,2,0,20,0,10,3,3,0,1,0,IPL24 #63
+LSG vs KKR,LSG,Krunal Pandya,2,0,26,0,13,2,0,2,2,0,IPL24 #54
+LSG vs RR,LSG,Krunal Pandya,4,0,24,0,6,5,1,0,0,0,IPL24 #44
+CSK vs LSG,LSG,Krunal Pandya,2,0,15,0,7.5,3,2,0,0,0,IPL24 #39
+LSG vs CSK,LSG,Krunal Pandya,3,0,16,2,5.33,6,1,0,0,0,IPL24 #34
+KKR vs LSG,LSG,Krunal Pandya,1,0,14,0,14,1,3,0,0,0,IPL24 #28
+LSG vs DC,LSG,Krunal Pandya,3,0,45,0,15,4,2,3,3,0,IPL24 #26
+LSG vs GT,LSG,Krunal Pandya,4,0,11,3,2.75,13,0,0,0,0,IPL24 #21
+RCB vs LSG,LSG,Krunal Pandya,1,0,10,0,10,0,1,0,0,0,IPL24 #15
+LSG vs Punjab Kings,LSG,Krunal Pandya,3,0,26,0,8.66,5,1,2,0,0,IPL24 #11
+RR vs LSG,LSG,Krunal Pandya,4,0,19,0,4.75,6,0,0,0,0,IPL24 #4
+KKR vs RR,RR,Kuldeep Sen,4,0,46,2,11.5,8,6,2,2,0,IPL24 #31
+Punjab Kings vs RR,RR,Kuldeep Sen,4,0,35,1,8.75,9,3,2,0,0,IPL24 #27
+RR vs GT,RR,Kuldeep Sen,4,0,41,3,10.25,7,5,0,4,1,IPL24 #24
+DC vs LSG,DC,Kuldeep Yadav,4,0,33,1,8.25,9,2,2,0,0,IPL24 #63
+RCB vs DC,DC,Kuldeep Yadav,4,0,52,1,13,6,0,6,1,0,IPL24 #62
+DC vs RR,DC,Kuldeep Yadav,4,0,25,2,6.25,10,0,2,0,1,IPL24 #56
+KKR vs DC,DC,Kuldeep Yadav,4,0,34,0,8.5,8,2,2,0,0,IPL24 #47
+DC vs MI,DC,Kuldeep Yadav,3,0,47,0,15.66,2,5,3,1,0,IPL24 #43
+DC vs GT,DC,Kuldeep Yadav,4,0,29,2,7.25,5,2,0,1,0,IPL24 #40
+DC vs SRH,DC,Kuldeep Yadav,4,0,55,4,13.75,8,0,7,2,0,IPL24 #35
+GT vs DC,DC,Kuldeep Yadav,4,0,16,0,4,13,0,1,0,0,IPL24 #32
+LSG vs DC,DC,Kuldeep Yadav,4,0,20,3,5,10,0,0,1,0,IPL24 #26
+RR vs DC,DC,Kuldeep Yadav,4,0,41,1,10.25,5,1,3,2,0,IPL24 #9
+Punjab Kings vs DC,DC,Kuldeep Yadav,4,0,20,2,5,7,1,0,0,0,IPL24 #2
+MI vs RR,MI,Kwena Maphaka,2,0,23,1,11.5,5,5,0,0,0,IPL24 #14
+SRH vs MI,MI,Kwena Maphaka,4,0,66,0,16.5,7,7,5,3,0,IPL24 #8
+DC vs SRH,DC,Lalit Yadav,2,0,41,0,20.5,2,2,5,0,0,IPL24 #35
+MI vs DC,DC,Lalit Yadav,1,0,15,0,15,1,3,0,0,0,IPL24 #20
+Punjab Kings vs RCB,Punjab Kings,Liam Livingstone,3,0,28,0,9.33,4,2,1,1,0,IPL24 #58
+Punjab Kings vs GT,Punjab Kings,Liam Livingstone,4,0,19,2,4.75,9,1,0,1,0,IPL24 #37
+Punjab Kings vs MI,Punjab Kings,Liam Livingstone,2,0,16,0,8,4,1,1,0,0,IPL24 #33
+Punjab Kings vs RR,Punjab Kings,Liam Livingstone,3,0,21,1,7,9,2,1,1,0,IPL24 #27
+KKR vs DC,DC,Lizaad Williams,3,0,38,1,12.66,7,3,3,1,1,IPL24 #47
+DC vs MI,DC,Lizaad Williams,3,0,34,0,11.33,6,4,0,3,1,IPL24 #43
+RR vs RCB,RCB,Lockie Ferguson,4,0,37,1,9.25,9,3,2,0,0,IPL24 #69
+RCB vs CSK,RCB,Lockie Ferguson,3,0,39,1,13,6,3,3,0,2,IPL24 #66
+RCB vs DC,RCB,Lockie Ferguson,4,0,23,2,5.75,9,2,0,0,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Lockie Ferguson,3,0,29,2,9.66,6,5,0,0,0,IPL24 #58
+SRH vs RCB,RCB,Lockie Ferguson,2,0,28,0,14,2,2,2,0,0,IPL24 #41
+KKR vs RCB,RCB,Lockie Ferguson,4,0,47,1,11.75,3,5,2,0,1,IPL24 #36
+RCB vs SRH,RCB,Lockie Ferguson,4,0,52,2,13,8,2,6,0,0,IPL24 #30
+DC vs MI,MI,Luke Wood,4,0,68,1,17,5,9,4,0,0,IPL24 #43
+GT vs MI,MI,Luke Wood,2,0,25,0,12.5,4,3,1,1,1,IPL24 #5
+DC vs GT,GT,M Shahrukh Khan ,1,0,8,0,8,3,0,1,0,0,IPL24 #40
+Punjab Kings vs GT,GT,M Shahrukh Khan ,1,0,7,0,7,1,0,0,0,0,IPL24 #37
+RCB vs CSK,CSK,Maheesh Theekshana,4,0,25,0,6.25,11,2,1,1,0,IPL24 #66
+CSK vs RR,CSK,Maheesh Theekshana,4,0,28,0,7,9,2,1,0,0,IPL24 #61
+CSK vs KKR,CSK,Maheesh Theekshana,4,0,28,1,7,13,0,3,0,0,IPL24 #22
+SRH vs CSK,CSK,Maheesh Theekshana,4,0,27,1,6.75,9,3,0,0,0,IPL24 #18
+CSK vs RCB,CSK,Maheesh Theekshana,4,0,36,0,9,4,1,2,0,0,IPL24 #1
+RCB vs SRH,RCB,Mahipal Lomror,1,0,18,0,18,1,0,2,3,0,IPL24 #30
+RCB vs GT,GT,Manav Suthar,2,0,26,0,13,4,1,3,0,0,IPL24 #52
+LSG vs GT,LSG,Manimaran Siddharth,4,0,29,0,7.25,10,0,1,1,3,IPL24 #21
+RCB vs LSG,LSG,Manimaran Siddharth,3,0,21,1,7,7,3,0,0,0,IPL24 #15
+LSG vs Punjab Kings,LSG,Manimaran Siddharth,2,0,21,0,10.5,5,3,1,0,0,IPL24 #11
+MI vs SRH,SRH,Marco Jansen,3,0,45,1,15,5,5,2,2,0,IPL24 #55
+SRH vs RR,SRH,Marco Jansen,4,0,44,0,11,10,7,0,3,2,IPL24 #50
+KKR vs SRH,SRH,Marco Jansen,3,0,40,0,13.33,5,1,4,1,0,IPL24 #3
+LSG vs KKR,LSG,Marcus Stoinis,2,0,29,0,14.5,4,2,3,0,0,IPL24 #54
+LSG vs MI,LSG,Marcus Stoinis,3,0,19,1,6.33,10,1,1,1,0,IPL24 #48
+LSG vs RR,LSG,Marcus Stoinis,1,0,3,1,3,3,0,0,0,0,IPL24 #44
+CSK vs LSG,LSG,Marcus Stoinis,4,0,49,0,12.25,5,3,3,1,0,IPL24 #39
+LSG vs CSK,LSG,Marcus Stoinis,2,0,7,1,3.5,6,0,0,0,0,IPL24 #34
+LSG vs DC,LSG,Marcus Stoinis,1,0,10,0,10,2,2,0,0,0,IPL24 #26
+RCB vs LSG,LSG,Marcus Stoinis,1,0,9,1,9,3,0,0,1,0,IPL24 #15
+CSK vs SRH,CSK,Matheesha Pathirana,2,0,17,2,8.5,3,0,1,2,0,IPL24 #46
+CSK vs LSG,CSK,Matheesha Pathirana,4,0,35,2,8.75,8,5,0,2,0,IPL24 #39
+LSG vs CSK,CSK,Matheesha Pathirana,4,0,29,1,7.25,8,0,2,2,0,IPL24 #34
+MI vs CSK,CSK,Matheesha Pathirana,4,0,28,4,7,12,4,0,1,0,IPL24 #29
+DC vs CSK,CSK,Matheesha Pathirana,4,0,31,3,7.75,10,3,1,2,0,IPL24 #13
+CSK vs GT,CSK,Matheesha Pathirana,4,0,29,1,7.25,13,2,1,4,0,IPL24 #7
+MI vs LSG,LSG,Matt Henry,2,0,24,0,12,4,1,2,2,0,IPL24 #65
+LSG vs RR,LSG,Matt Henry,3,0,32,0,10.66,7,3,2,0,0,IPL24 #44
+CSK vs LSG,LSG,Matt Henry,4,0,28,1,7,9,3,0,0,0,IPL24 #39
+LSG vs CSK,LSG,Matt Henry,3,0,26,0,8.66,6,2,1,0,0,IPL24 #34
+RR vs RCB,RCB,Mayank Dagar,2,0,34,0,17,4,5,2,0,0,IPL24 #19
+RCB vs LSG,RCB,Mayank Dagar,2,0,23,0,11.5,2,1,1,1,0,IPL24 #15
+RCB vs KKR,RCB,Mayank Dagar,2.5,0,23,1,8.11,6,0,2,0,0,IPL24 #10
+RCB vs Punjab Kings,RCB,Mayank Dagar,3,0,34,0,11.33,4,1,3,0,0,IPL24 #6
+CSK vs RCB,RCB,Mayank Dagar,2,0,6,0,3,6,0,0,0,0,IPL24 #1
+SRH vs RCB,SRH,Mayank Markande,3,0,42,1,14,2,0,5,1,0,IPL24 #41
+DC vs SRH,SRH,Mayank Markande,2,0,26,2,13,3,0,3,2,0,IPL24 #35
+RCB vs SRH,SRH,Mayank Markande,4,0,46,2,11.5,5,1,4,3,0,IPL24 #30
+SRH vs CSK,SRH,Mayank Markande,2,0,21,0,10.5,0,1,1,0,0,IPL24 #18
+GT vs SRH,SRH,Mayank Markande,3,0,33,1,11,4,2,2,2,0,IPL24 #12
+SRH vs MI,SRH,Mayank Markande,4,0,52,0,13,5,3,4,1,1,IPL24 #8
+KKR vs SRH,SRH,Mayank Markande,4,0,39,2,9.75,10,1,4,0,0,IPL24 #3
+LSG vs MI,LSG,Mayank Yadav,3.1,0,31,1,9.78,11,3,2,2,1,IPL24 #48
+LSG vs GT,LSG,Mayank Yadav,1,0,13,0,13,2,3,0,0,0,IPL24 #21
+RCB vs LSG,LSG,Mayank Yadav,4,0,14,3,3.5,17,2,0,0,0,IPL24 #15
+LSG vs Punjab Kings,LSG,Mayank Yadav,4,0,27,3,6.75,12,3,1,0,0,IPL24 #11
+DC vs KKR,DC,Mitchell Marsh,3,0,37,1,12.33,4,3,2,4,0,IPL24 #16
+DC vs CSK,DC,Mitchell Marsh,1,0,14,0,14,0,2,0,1,0,IPL24 #13
+Punjab Kings vs DC,DC,Mitchell Marsh,4,0,52,0,13,5,5,3,1,0,IPL24 #2
+RCB vs CSK,CSK,Mitchell Santner,4,0,23,1,5.75,10,1,1,0,0,IPL24 #66
+GT vs CSK,CSK,Mitchell Santner,2,0,31,0,15.5,2,3,2,0,0,IPL24 #59
+Punjab Kings vs CSK,CSK,Mitchell Santner,3,0,10,1,3.33,11,1,0,0,0,IPL24 #53
+KKR vs SRH,KKR,Mitchell Starc,3,0,14,2,4.66,11,2,0,0,0,IPL24 #71
+KKR vs SRH,KKR,Mitchell Starc,4,0,34,3,8.5,11,5,1,1,0,IPL24 #68
+KKr vs MI,KKR,Mitchell Starc,1,0,11,0,11,2,2,0,0,0,IPL24 #60
+LSG vs KKR,KKR,Mitchell Starc,2,0,22,1,11,5,5,0,0,0,IPL24 #54
+MI vs KKR,KKR,Mitchell Starc,3.5,0,33,4,8.6,12,1,3,1,0,IPL24 #51
+KKR vs DC,KKR,Mitchell Starc,3,0,43,1,14.33,6,5,2,2,0,IPL24 #47
+KKR vs RCB,KKR,Mitchell Starc,3,0,55,1,18.33,6,2,7,1,0,IPL24 #36
+KKR vs RR,KKR,Mitchell Starc,4,0,50,0,12.5,7,6,1,5,0,IPL24 #31
+KKR vs LSG,KKR,Mitchell Starc,4,0,28,3,7,13,5,0,1,0,IPL24 #28
+CSK vs KKR,KKR,Mitchell Starc,3,0,29,0,9.66,7,5,0,2,0,IPL24 #22
+DC vs KKR,KKR,Mitchell Starc,3,0,25,2,8.33,10,2,2,0,0,IPL24 #16
+RCB vs KKR,KKR,Mitchell Starc,4,0,47,0,11.75,7,4,3,1,0,IPL24 #10
+KKR vs SRH,KKR,Mitchell Starc,4,0,53,0,13.25,8,3,4,2,0,IPL24 #3
+CSK vs Punjab Kings,CSK,Moeen Ali,2,0,22,0,11,4,1,2,0,0,IPL24 #49
+CSK vs LSG,CSK,Moeen Ali,2,0,21,0,10.5,1,1,1,0,0,IPL24 #39
+LSG vs CSK,CSK,Moeen Ali,1,0,5,0,5,2,0,0,0,0,IPL24 #34
+SRH vs CSK,CSK,Moeen Ali,3,0,23,2,7.66,5,0,1,1,0,IPL24 #18
+LSG vs MI,MI,Mohammad Nabi,1.2,0,16,1,12,1,1,1,0,0,IPL24 #48
+DC vs MI,MI,Mohammad Nabi,2,0,20,1,10,2,0,2,0,0,IPL24 #43
+RR vs MI,MI,Mohammad Nabi,3,0,30,0,10,6,1,3,0,0,IPL24 #38
+MI vs CSK,MI,Mohammad Nabi,3,0,19,0,6.33,7,1,1,0,0,IPL24 #29
+MI vs RCB,MI,Mohammad Nabi,1,0,7,0,7,2,1,0,0,0,IPL24 #25
+MI vs DC,MI,Mohammad Nabi,2,0,17,0,8.5,1,0,1,0,0,IPL24 #20
+RR vs RCB,RCB,Mohammed Siraj,4,0,33,2,8.25,7,4,0,3,0,IPL24 #69
+RCB vs CSK,RCB,Mohammed Siraj,4,0,35,1,8.75,7,3,1,1,0,IPL24 #66
+RCB vs DC,RCB,Mohammed Siraj,4,0,33,1,8.25,13,4,1,2,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Mohammed Siraj,4,0,43,3,10.75,9,5,2,2,0,IPL24 #58
+RCB vs GT,RCB,Mohammed Siraj,4,0,29,2,7.25,13,5,0,3,0,IPL24 #52
+GT vs RCB,RCB,Mohammed Siraj,4,0,34,1,8.5,9,3,1,4,0,IPL24 #45
+SRH vs RCB,RCB,Mohammed Siraj,4,0,20,0,5,11,1,0,2,0,IPL24 #41
+KKR vs RCB,RCB,Mohammed Siraj,4,0,40,1,10,13,4,3,2,0,IPL24 #36
+MI vs RCB,RCB,Mohammed Siraj,3,0,37,0,12.33,7,2,4,0,0,IPL24 #25
+RR vs RCB,RCB,Mohammed Siraj,4,0,35,1,8.75,5,3,1,1,0,IPL24 #19
+RCB vs LSG,RCB,Mohammed Siraj,4,0,47,1,11.75,11,2,5,3,0,IPL24 #15
+RCB vs KKR,RCB,Mohammed Siraj,3,0,46,0,15.33,3,1,5,2,0,IPL24 #10
+RCB vs Punjab Kings,RCB,Mohammed Siraj,4,0,26,2,6.5,12,4,0,0,0,IPL24 #6
+CSK vs RCB,RCB,Mohammed Siraj,4,0,38,0,9.5,9,5,1,1,0,IPL24 #1
+GT vs CSK,GT,Mohit Sharma,4,0,31,3,7.75,10,3,1,2,0,IPL24 #59
+RCB vs GT,GT,Mohit Sharma,2,0,32,0,16,2,4,2,0,0,IPL24 #52
+GT vs RCB,GT,Mohit Sharma,2,0,41,0,20.5,3,3,4,0,1,IPL24 #45
+DC vs GT,GT,Mohit Sharma,4,0,73,0,18.25,2,4,7,1,0,IPL24 #40
+Punjab Kings vs GT,GT,Mohit Sharma,4,0,32,2,8,10,4,1,1,0,IPL24 #37
+RR vs GT,GT,Mohit Sharma,4,0,51,1,12.75,3,4,2,4,0,IPL24 #24
+LSG vs GT,GT,Mohit Sharma,3,0,34,0,11.33,2,4,1,0,0,IPL24 #21
+GT vs Punjab Kings,GT,Mohit Sharma,4,0,38,1,9.5,6,2,2,0,0,IPL24 #17
+GT vs SRH,GT,Mohit Sharma,4,0,25,3,6.25,6,0,1,0,0,IPL24 #12
+CSK vs GT,GT,Mohit Sharma,4,0,36,1,9,4,2,1,1,0,IPL24 #7
+GT vs MI,GT,Mohit Sharma,4,0,32,2,8,7,3,0,1,0,IPL24 #5
+MI vs LSG,LSG,Mohsin Khan,4,0,45,1,11.25,9,4,3,2,0,IPL24 #65
+DC vs LSG,LSG,Mohsin Khan,4,0,29,0,7.25,11,2,2,0,0,IPL24 #63
+LSG vs KKR,LSG,Mohsin Khan,2,0,28,0,14,4,3,2,1,0,IPL24 #54
+LSG vs MI,LSG,Mohsin Khan,4,0,36,2,9,10,4,1,0,0,IPL24 #48
+LSG vs RR,LSG,Mohsin Khan,4,0,52,0,13,5,5,3,0,0,IPL24 #44
+CSK vs LSG,LSG,Mohsin Khan,4,0,50,1,12.5,6,5,3,0,0,IPL24 #39
+LSG vs CSK,LSG,Mohsin Khan,4,0,37,1,9.25,7,2,2,3,0,IPL24 #34
+KKR vs LSG,LSG,Mohsin Khan,4,0,29,2,7.25,12,2,2,1,0,IPL24 #28
+LSG vs Punjab Kings,LSG,Mohsin Khan,4,0,34,2,8.5,10,3,2,1,0,IPL24 #11
+RR vs LSG,LSG,Mohsin Khan,4,0,45,1,11.25,8,4,3,1,0,IPL24 #4
+SRH vs CSK,CSK,Mukesh Choudhary,1,0,27,0,27,2,2,3,0,1,IPL24 #18
+DC vs LSG,DC,Mukesh Kumar,4,0,33,1,8.25,9,3,1,2,0,IPL24 #63
+RCB vs DC,DC,Mukesh Kumar,3,0,23,1,7.66,9,4,0,0,0,IPL24 #62
+DC vs RR,DC,Mukesh Kumar,3,0,30,2,10,7,4,1,1,0,IPL24 #56
+DC vs MI,DC,Mukesh Kumar,4,0,59,3,14.75,6,5,5,0,0,IPL24 #43
+DC vs GT,DC,Mukesh Kumar,4,0,41,1,10.25,7,6,1,0,1,IPL24 #40
+DC vs SRH,DC,Mukesh Kumar,4,0,57,1,14.25,4,7,3,0,0,IPL24 #35
+GT vs DC,DC,Mukesh Kumar,2.3,0,14,3,5.6,9,1,0,1,2,IPL24 #32
+LSG vs DC,DC,Mukesh Kumar,4,0,41,1,10.25,5,6,0,1,0,IPL24 #26
+DC vs CSK,DC,Mukesh Kumar,3,0,21,3,7,8,3,0,1,0,IPL24 #13
+RR vs DC,DC,Mukesh Kumar,4,0,49,1,12.25,8,7,2,1,0,IPL24 #9
+CSK vs Punjab Kings,CSK,Mustafizur Rahman,4,1,22,0,5.5,14,2,0,5,0,IPL24 #49
+CSK vs SRH,CSK,Mustafizur Rahman,2.5,0,19,2,6.7,6,2,0,0,0,IPL24 #46
+CSK vs LSG,CSK,Mustafizur Rahman,3.3,0,51,1,14.57,8,5,4,0,1,IPL24 #39
+LSG vs CSK,CSK,Mustafizur Rahman,4,0,43,1,10.75,5,7,0,2,0,IPL24 #34
+MI vs CSK,CSK,Mustafizur Rahman,4,0,55,1,13.75,5,4,4,3,0,IPL24 #29
+CSK vs KKR,CSK,Mustafizur Rahman,4,0,22,2,5.5,16,3,0,2,1,IPL24 #22
+DC vs CSK,CSK,Mustafizur Rahman,4,0,47,1,11.75,5,6,1,1,2,IPL24 #13
+CSK vs GT,CSK,Mustafizur Rahman,4,0,30,2,7.5,10,5,0,0,0,IPL24 #7
+CSK vs RCB,CSK,Mustafizur Rahman,4,0,29,4,7.25,12,3,1,2,0,IPL24 #1
+MI vs LSG,MI,Naman Dhir,0.4,0,17,0,25.5,0,1,2,0,0,IPL24 #65
+MI vs KKR,MI,Naman Dhir,3,0,25,0,8.33,3,2,0,1,0,IPL24 #51
+GT vs MI,MI,Naman Dhir,1,0,13,0,13,0,2,0,0,0,IPL24 #5
+CSK vs RR,RR,Nandre Burger,3,0,21,1,7,7,0,2,0,0,IPL24 #61
+RR vs RCB,RR,Nandre Burger,4,0,33,1,8.25,11,3,1,2,0,IPL24 #19
+MI vs RR,RR,Nandre Burger,4,0,32,2,8,15,5,1,1,0,IPL24 #14
+RR vs DC,RR,Nandre Burger,3,0,29,2,9.66,9,5,1,0,0,IPL24 #9
+RR vs LSG,RR,Nandre Burger,3,0,30,1,10,8,3,2,0,0,IPL24 #4
+RR vs Punjab Kings,Punjab Kings,Nathan Ellis,4,0,24,1,6,10,3,0,0,0,IPL24 #64
+MI vs LSG,LSG,Naveen-ul-Haq,4,0,50,2,12.5,8,5,3,1,1,IPL24 #65
+DC vs LSG,LSG,Naveen-ul-Haq,4,0,51,2,12.75,6,3,4,1,0,IPL24 #63
+SRH vs LSG,LSG,Naveen-ul-Haq,2,0,37,0,18.5,1,5,2,0,0,IPL24 #57
+LSG vs KKR,LSG,Naveen-ul-Haq,4,0,49,3,12.25,7,9,0,1,0,IPL24 #54
+LSG vs MI,LSG,Naveen-ul-Haq,3.5,0,15,1,3.91,11,0,0,0,1,IPL24 #48
+LSG vs DC,LSG,Naveen-ul-Haq,3,0,24,1,8,5,3,0,0,0,IPL24 #26
+LSG vs GT,LSG,Naveen-ul-Haq,4,0,37,1,9.25,7,3,1,1,1,IPL24 #21
+RCB vs LSG,LSG,Naveen-ul-Haq,3.4,0,25,2,6.81,14,2,2,1,0,IPL24 #15
+LSG vs Punjab Kings,LSG,Naveen-ul-Haq,4,0,43,0,10.75,5,4,2,1,0,IPL24 #11
+RR vs LSG,LSG,Naveen-ul-Haq,4,0,41,2,10.25,8,4,1,4,0,IPL24 #4
+MI vs LSG,MI,Nehal Wadhera,2,0,13,0,6.5,2,1,0,0,0,IPL24 #65
+KKR vs SRH,SRH,Nitish Kumar Reddy,1,0,13,0,13,1,1,1,0,0,IPL24 #68
+SRH vs Punjab Kings,SRH,Nitish Kumar Reddy,3,0,54,0,18,2,3,5,2,1,IPL24 #67
+MI vs SRH,SRH,Nitish Kumar Reddy,2,0,16,0,8,5,3,0,0,0,IPL24 #55
+SRH vs RR,SRH,Nitish Kumar Reddy,1,0,12,0,12,1,1,0,2,0,IPL24 #50
+CSK vs SRH,SRH,Nitish Kumar Reddy,1,0,8,0,8,2,1,0,1,0,IPL24 #46
+DC vs SRH,SRH,Nitish Kumar Reddy,2.1,0,17,2,7.84,3,0,1,1,0,IPL24 #35
+Punjab Kings vs SRH,SRH,Nitish Kumar Reddy,3,0,33,1,11,6,3,2,1,0,IPL24 #23
+GT vs CSK,GT,Noor Ahmad,2,0,25,0,12.5,3,0,3,0,0,IPL24 #59
+RCB vs GT,GT,Noor Ahmad,4,0,23,2,5.75,13,4,0,0,0,IPL24 #52
+GT vs RCB,GT,Noor Ahmad,4,0,43,0,10.75,6,4,2,1,0,IPL24 #45
+DC vs GT,GT,Noor Ahmad,3,0,36,1,12,4,2,3,1,0,IPL24 #40
+Punjab Kings vs GT,GT,Noor Ahmad,4,0,20,2,5,10,2,0,0,0,IPL24 #37
+GT vs DC,GT,Noor Ahmad,1.5,0,14,0,7.63,6,3,0,0,0,IPL24 #32
+RR vs GT,GT,Noor Ahmad,4,0,43,0,10.75,6,1,3,1,0,IPL24 #24
+LSG vs GT,GT,Noor Ahmad,4,0,22,0,5.5,7,1,0,0,0,IPL24 #21
+GT vs Punjab Kings,GT,Noor Ahmad,4,0,32,2,8,10,2,1,2,0,IPL24 #17
+GT vs SRH,GT,Noor Ahmad,4,0,32,1,8,10,2,2,0,0,IPL24 #12
+MI vs LSG,MI,Nuwan Thushara,4,0,28,3,7,11,4,0,2,0,IPL24 #65
+KKr vs MI,MI,Nuwan Thushara,3,0,31,1,10.33,6,2,2,2,0,IPL24 #60
+MI vs SRH,MI,Nuwan Thushara,4,0,42,0,10.5,7,3,1,3,1,IPL24 #55
+MI vs KKR,MI,Nuwan Thushara,4,0,42,3,10.5,11,3,3,3,1,IPL24 #51
+LSG vs MI,MI,Nuwan Thushara,4,0,30,1,7.5,11,3,1,2,0,IPL24 #48
+DC vs MI,MI,Nuwan Thushara,4,0,56,0,14,3,6,3,2,0,IPL24 #43
+RR vs MI,MI,Nuwan Thushara,3,0,28,0,9.33,2,4,0,0,0,IPL24 #38
+KKR vs SRH,SRH,Pat Cummins,2,0,18,1,9,7,2,1,1,0,IPL24 #71
+RR vs SRH,SRH,Pat Cummins,4,0,30,1,7.5,10,3,1,1,0,IPL24 #70
+KKR vs SRH,SRH,Pat Cummins,3,0,38,1,12.66,6,5,2,1,0,IPL24 #68
+SRH vs Punjab Kings,SRH,Pat Cummins,4,0,36,1,9,7,4,1,0,0,IPL24 #67
+SRH vs LSG,SRH,Pat Cummins,4,0,47,1,11.75,5,6,1,0,0,IPL24 #57
+MI vs SRH,SRH,Pat Cummins,4,1,35,1,8.75,12,4,2,1,0,IPL24 #55
+SRH vs RR,SRH,Pat Cummins,4,0,34,2,8.5,12,2,3,0,0,IPL24 #50
+CSK vs SRH,SRH,Pat Cummins,4,0,49,0,12.25,4,4,3,1,0,IPL24 #46
+SRH vs RCB,SRH,Pat Cummins,4,0,55,1,13.75,1,8,1,1,0,IPL24 #41
+DC vs SRH,SRH,Pat Cummins,4,0,35,0,8.75,9,5,1,0,0,IPL24 #35
+RCB vs SRH,SRH,Pat Cummins,4,0,43,3,10.75,10,4,3,1,0,IPL24 #30
+Punjab Kings vs SRH,SRH,Pat Cummins,4,0,22,1,5.5,11,3,0,0,0,IPL24 #23
+SRH vs CSK,SRH,Pat Cummins,4,0,29,1,7.25,9,2,1,0,0,IPL24 #18
+GT vs SRH,SRH,Pat Cummins,4,0,28,1,7,7,3,0,1,0,IPL24 #12
+SRH vs MI,SRH,Pat Cummins,4,0,35,2,8.75,7,1,2,1,0,IPL24 #8
+KKR vs SRH,SRH,Pat Cummins,4,0,32,1,8,8,3,1,0,0,IPL24 #3
+MI vs LSG,MI,Piyush Chawla,4,0,29,3,7.25,10,0,3,0,0,IPL24 #65
+KKr vs MI,MI,Piyush Chawla,3,0,28,2,9.33,7,2,2,0,0,IPL24 #60
+MI vs SRH,MI,Piyush Chawla,4,0,33,3,8.25,7,1,2,2,0,IPL24 #55
+MI vs KKR,MI,Piyush Chawla,3,0,15,1,5,8,1,0,0,0,IPL24 #51
+LSG vs MI,MI,Piyush Chawla,3,0,23,0,7.66,5,3,0,0,0,IPL24 #48
+DC vs MI,MI,Piyush Chawla,4,0,36,1,9,7,2,2,2,0,IPL24 #43
+RR vs MI,MI,Piyush Chawla,4,0,33,1,8.25,8,2,2,0,0,IPL24 #38
+MI vs DC,MI,Piyush Chawla,2,0,32,0,16,2,2,3,0,0,IPL24 #20
+MI vs RR,MI,Piyush Chawla,3,0,18,0,6,6,0,1,0,0,IPL24 #14
+SRH vs MI,MI,Piyush Chawla,2,0,34,1,17,1,0,4,0,0,IPL24 #8
+GT vs MI,MI,Piyush Chawla,3,0,31,1,10.33,4,0,2,1,0,IPL24 #5
+CSK vs KKR,CSK,Rachin Ravindra,1,0,4,0,4,2,0,0,0,0,IPL24 #22
+SRH vs CSK,CSK,Rachin Ravindra,1,0,3,0,3,3,0,0,0,0,IPL24 #18
+SRH vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,43,0,10.75,6,1,4,1,0,IPL24 #67
+RR vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,26,2,6.5,9,2,1,0,0,IPL24 #64
+Punjab Kings vs RCB,Punjab Kings,Rahul Chahar,3,0,47,0,15.66,5,3,4,0,1,IPL24 #58
+Punjab Kings vs CSK,Punjab Kings,Rahul Chahar,4,0,23,3,5.75,10,1,1,1,0,IPL24 #53
+CSK vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,16,2,4,9,0,0,0,0,IPL24 #49
+KKR vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,33,1,8.25,9,4,1,0,0,IPL24 #42
+LSG vs Punjab Kings,Punjab Kings,Rahul Chahar,3,0,42,1,14,1,1,4,0,0,IPL24 #11
+RCB vs Punjab Kings,Punjab Kings,Rahul Chahar,1,0,16,0,16,1,0,2,0,0,IPL24 #6
+Punjab Kings vs DC,Punjab Kings,Rahul Chahar,4,0,33,1,8.25,6,3,1,0,0,IPL24 #2
+KKR vs Punjab Kings,KKR,Ramandeep Singh,0.4,0,9,0,13.5,0,0,1,0,0,IPL24 #42
+GT vs CSK,GT,Rashid Khan,4,0,38,2,9.5,10,3,3,0,0,IPL24 #59
+RCB vs GT,GT,Rashid Khan,1.4,0,25,0,15,1,3,1,0,0,IPL24 #52
+GT vs RCB,GT,Rashid Khan,4,0,51,0,12.75,4,3,4,0,0,IPL24 #45
+DC vs GT,GT,Rashid Khan,4,0,35,0,8.75,8,4,1,0,0,IPL24 #40
+Punjab Kings vs GT,GT,Rashid Khan,4,0,15,1,3.75,11,0,0,0,0,IPL24 #37
+GT vs DC,GT,Rashid Khan,2,0,12,1,6,6,0,1,0,0,IPL24 #32
+RR vs GT,GT,Rashid Khan,4,0,18,1,4.5,10,1,0,0,0,IPL24 #24
+LSG vs GT,GT,Rashid Khan,4,0,28,1,7,4,0,1,0,0,IPL24 #21
+GT vs Punjab Kings,GT,Rashid Khan,4,0,40,1,10,8,2,3,0,0,IPL24 #17
+GT vs SRH,GT,Rashid Khan,4,0,33,1,8.25,7,1,2,0,0,IPL24 #12
+CSK vs GT,GT,Rashid Khan,4,0,49,2,12.25,4,4,3,0,0,IPL24 #7
+GT vs MI,GT,Rashid Khan,4,0,23,0,5.75,11,1,1,0,0,IPL24 #5
+DC vs LSG,DC,Rasikh Salam ,3,0,30,0,10,5,1,2,0,0,IPL24 #63
+RCB vs DC,DC,Rasikh Salam ,3,0,23,2,7.66,5,2,0,3,0,IPL24 #62
+DC vs RR,DC,Rasikh Salam ,3,0,36,1,12,6,1,4,1,0,IPL24 #56
+KKR vs DC,DC,Rasikh Salam ,2.3,0,30,0,12,3,4,1,0,0,IPL24 #47
+DC vs MI,DC,Rasikh Salam ,4,0,34,3,8.5,8,1,2,3,0,IPL24 #43
+DC vs GT,DC,Rasikh Salam ,4,0,44,3,11,8,4,3,1,0,IPL24 #40
+DC vs KKR,DC,Rasikh Salam ,3,0,47,0,15.66,5,4,4,1,0,IPL24 #16
+DC vs CSK,DC,Rasikh Salam ,2,0,25,0,12.5,2,1,2,0,0,IPL24 #13
+MI vs LSG,LSG,Ravi Bishnoi,4,0,37,2,9.25,9,5,1,0,0,IPL24 #65
+DC vs LSG,LSG,Ravi Bishnoi,4,0,26,1,6.5,9,1,1,0,0,IPL24 #63
+SRH vs LSG,LSG,Ravi Bishnoi,2,0,34,0,17,4,2,4,0,0,IPL24 #57
+LSG vs KKR,LSG,Ravi Bishnoi,4,0,33,1,8.25,8,3,1,2,0,IPL24 #54
+LSG vs MI,LSG,Ravi Bishnoi,4,0,28,1,7,8,3,0,1,0,IPL24 #48
+LSG vs RR,LSG,Ravi Bishnoi,1,0,16,0,16,1,2,1,0,0,IPL24 #44
+CSK vs LSG,LSG,Ravi Bishnoi,2,0,19,0,9.5,2,3,0,0,0,IPL24 #39
+LSG vs CSK,LSG,Ravi Bishnoi,4,0,44,1,11,6,3,3,0,0,IPL24 #34
+KKR vs LSG,LSG,Ravi Bishnoi,2.4,0,17,0,6.37,7,2,0,2,0,IPL24 #28
+LSG vs DC,LSG,Ravi Bishnoi,4,0,25,2,6.25,12,2,1,0,0,IPL24 #26
+LSG vs GT,LSG,Ravi Bishnoi,2,0,8,1,4,5,0,0,1,0,IPL24 #21
+RCB vs LSG,LSG,Ravi Bishnoi,3,0,33,0,11,6,1,3,2,0,IPL24 #15
+LSG vs Punjab Kings,LSG,Ravi Bishnoi,3,0,25,0,8.33,7,1,2,0,0,IPL24 #11
+RR vs LSG,LSG,Ravi Bishnoi,4,0,38,1,9.5,5,1,3,0,0,IPL24 #4
+RR vs SRH,RR,Ravichandran Ashwin,4,0,43,0,10.75,4,3,2,0,0,IPL24 #70
+RR vs RCB,RR,Ravichandran Ashwin,4,0,19,2,4.75,9,0,0,2,0,IPL24 #69
+RR vs Punjab Kings,RR,Ravichandran Ashwin,4,0,31,0,7.75,11,1,3,0,0,IPL24 #64
+CSK vs RR,RR,Ravichandran Ashwin,4,0,35,2,8.75,8,4,1,1,0,IPL24 #61
+DC vs RR,RR,Ravichandran Ashwin,4,0,24,3,6,6,0,1,0,0,IPL24 #56
+SRH vs RR,RR,Ravichandran Ashwin,4,0,36,0,9,10,0,4,1,0,IPL24 #50
+LSG vs RR,RR,Ravichandran Ashwin,4,0,39,1,9.75,6,4,0,2,0,IPL24 #44
+RR vs MI,RR,Ravichandran Ashwin,4,0,31,0,7.75,4,1,1,1,0,IPL24 #38
+KKR vs RR,RR,Ravichandran Ashwin,4,0,49,0,12.25,8,4,2,5,0,IPL24 #31
+RR vs GT,RR,Ravichandran Ashwin,4,0,40,0,10,4,4,1,0,0,IPL24 #24
+RR vs RCB,RR,Ravichandran Ashwin,4,0,28,0,7,5,0,1,1,0,IPL24 #19
+MI vs RR,RR,Ravichandran Ashwin,4,0,27,0,6.75,6,1,0,1,0,IPL24 #14
+RR vs DC,RR,Ravichandran Ashwin,3,0,30,0,10,4,1,2,1,0,IPL24 #9
+RR vs LSG,RR,Ravichandran Ashwin,4,0,35,1,8.75,4,1,1,1,0,IPL24 #4
+RCB vs CSK,CSK,Ravindra Jadeja,3,0,40,0,13.33,2,2,3,0,0,IPL24 #66
+CSK vs RR,CSK,Ravindra Jadeja,4,0,24,0,6,7,0,1,0,0,IPL24 #61
+GT vs CSK,CSK,Ravindra Jadeja,2,0,29,0,14.5,0,2,1,0,0,IPL24 #59
+Punjab Kings vs CSK,CSK,Ravindra Jadeja,4,0,20,3,5,9,1,0,0,0,IPL24 #53
+CSK vs Punjab Kings,CSK,Ravindra Jadeja,3,0,22,0,7.33,6,3,0,0,0,IPL24 #49
+CSK vs SRH,CSK,Ravindra Jadeja,4,0,22,1,5.5,8,0,1,0,0,IPL24 #46
+CSK vs LSG,CSK,Ravindra Jadeja,2,0,16,0,8,3,0,1,0,1,IPL24 #39
+LSG vs CSK,CSK,Ravindra Jadeja,3,0,32,0,10.66,1,4,0,1,0,IPL24 #34
+MI vs CSK,CSK,Ravindra Jadeja,4,0,37,0,9.25,8,5,1,0,0,IPL24 #29
+CSK vs KKR,CSK,Ravindra Jadeja,4,0,18,3,4.5,11,1,0,1,0,IPL24 #22
+SRH vs CSK,CSK,Ravindra Jadeja,4,0,30,0,7.5,5,1,1,0,0,IPL24 #18
+DC vs CSK,CSK,Ravindra Jadeja,4,0,43,1,10.75,5,1,4,0,0,IPL24 #13
+CSK vs GT,CSK,Ravindra Jadeja,2,0,15,0,7.5,2,1,0,0,0,IPL24 #7
+CSK vs RCB,CSK,Ravindra Jadeja,4,0,21,0,5.25,8,1,0,0,0,IPL24 #1
+RCB vs SRH,RCB,Reece Topley,4,0,68,1,17,3,6,5,2,0,IPL24 #30
+MI vs RCB,RCB,Reece Topley,3,0,34,0,11.33,8,6,1,1,0,IPL24 #25
+RR vs RCB,RCB,Reece Topley,4,0,27,2,6.75,9,3,0,1,0,IPL24 #19
+RCB vs LSG,RCB,Reece Topley,4,0,39,1,9.75,11,3,3,1,0,IPL24 #15
+Punjab Kings vs CSK,CSK,Richard Gleeson ,4,0,41,0,10.25,10,3,3,2,0,IPL24 #53
+CSK vs Punjab Kings,CSK,Richard Gleeson ,3.5,0,30,1,7.82,10,4,0,1,1,IPL24 #49
+SRH vs Punjab Kings,Punjab Kings,Rishi Dhawan,3,0,35,0,11.66,5,2,3,1,0,IPL24 #67
+DC vs RR,RR,Riyan Parag,2,0,17,0,8.5,4,1,1,1,0,IPL24 #56
+RR vs RCB,RR,Riyan Parag,1,0,10,0,10,1,0,1,0,0,IPL24 #19
+MI vs LSG,MI,Romario Shepherd,2,0,30,0,15,5,3,2,3,0,IPL24 #65
+Punjab Kings vs MI,MI,Romario Shepherd,2,0,20,0,10,6,1,2,0,0,IPL24 #33
+MI vs CSK,MI,Romario Shepherd,2,0,33,0,16.5,2,4,2,0,0,IPL24 #29
+MI vs RCB,MI,Romario Shepherd,2,0,22,0,11,1,3,0,0,0,IPL24 #25
+MI vs DC,MI,Romario Shepherd,4,0,54,1,13.5,4,3,4,1,0,IPL24 #20
+GT vs RCB,GT,Sai Kishore ,3,0,30,1,10,4,0,3,0,0,IPL24 #45
+DC vs GT,GT,Sai Kishore ,1,0,22,0,22,0,2,2,0,0,IPL24 #40
+Punjab Kings vs GT,GT,Sai Kishore ,4,0,33,4,8.25,11,2,2,1,0,IPL24 #37
+CSK vs GT,GT,Sai Kishore ,3,0,28,1,9.33,6,0,2,2,0,IPL24 #7
+GT vs MI,GT,Sai Kishore ,4,0,24,1,6,9,1,1,0,0,IPL24 #5
+RR vs Punjab Kings,Punjab Kings,Sam Curran,3,0,24,2,8,11,4,1,0,0,IPL24 #64
+Punjab Kings vs RCB,Punjab Kings,Sam Curran,3,0,50,1,16.66,2,4,4,2,0,IPL24 #58
+Punjab Kings vs CSK,Punjab Kings,Sam Curran,4,0,34,1,8.5,3,2,1,0,0,IPL24 #53
+CSK vs Punjab Kings,Punjab Kings,Sam Curran,3,0,37,0,12.33,6,4,2,0,1,IPL24 #49
+KKR vs Punjab Kings,Punjab Kings,Sam Curran,4,0,60,1,15,6,5,5,0,0,IPL24 #42
+Punjab Kings vs GT,Punjab Kings,Sam Curran,2,0,18,1,9,4,3,0,0,0,IPL24 #37
+Punjab Kings vs MI,Punjab Kings,Sam Curran,4,0,41,2,10.25,10,3,3,2,0,IPL24 #33
+Punjab Kings vs RR,Punjab Kings,Sam Curran,4,0,25,2,6.25,9,3,0,1,0,IPL24 #27
+Punjab Kings vs SRH,Punjab Kings,Sam Curran,4,0,41,2,10.25,9,2,3,1,0,IPL24 #23
+GT vs Punjab Kings,Punjab Kings,Sam Curran,2,0,18,0,9,4,3,0,0,0,IPL24 #17
+LSG vs Punjab Kings,Punjab Kings,Sam Curran,4,0,28,3,7,10,2,1,0,0,IPL24 #11
+RCB vs Punjab Kings,Punjab Kings,Sam Curran,3,0,30,1,10,7,6,0,0,0,IPL24 #6
+Punjab Kings vs DC,Punjab Kings,Sam Curran,1,0,10,0,10,3,2,0,1,0,IPL24 #2
+RR vs SRH,RR,Sandeep Sharma,4,0,25,2,6.25,10,3,0,1,0,IPL24 #70
+RR vs RCB,RR,Sandeep Sharma,4,0,48,1,12,3,5,2,0,0,IPL24 #69
+RR vs Punjab Kings,RR,Sandeep Sharma,4,0,28,0,7,11,3,1,0,0,IPL24 #64
+CSK vs RR,RR,Sandeep Sharma,3,0,30,0,10,5,3,1,1,0,IPL24 #61
+DC vs RR,RR,Sandeep Sharma,4,0,42,1,10.5,7,5,2,0,0,IPL24 #56
+SRH vs RR,RR,Sandeep Sharma,4,0,31,1,7.75,10,1,2,2,0,IPL24 #50
+LSG vs RR,RR,Sandeep Sharma,4,0,31,2,7.75,7,3,0,1,0,IPL24 #44
+RR vs MI,RR,Sandeep Sharma,4,0,18,5,4.5,13,2,0,0,0,IPL24 #38
+RR vs DC,RR,Sandeep Sharma,4,0,36,0,9,3,2,1,2,0,IPL24 #9
+RR vs LSG,RR,Sandeep Sharma,3,0,22,1,7.33,6,3,0,1,0,IPL24 #4
+GT vs CSK,GT,Sandeep Warrier,3,0,28,1,9.33,8,1,3,0,0,IPL24 #59
+GT vs RCB,GT,Sandeep Warrier,1,0,15,0,15,1,1,1,2,0,IPL24 #45
+DC vs GT,GT,Sandeep Warrier,3,0,15,3,5,12,1,1,1,0,IPL24 #40
+Punjab Kings vs GT,GT,Sandeep Warrier,1,0,21,0,21,2,3,1,0,1,IPL24 #37
+GT vs DC,GT,Sandeep Warrier,3,0,40,2,13.33,8,3,4,0,0,IPL24 #32
+KKR vs SRH,SRH,Shahbaz Ahamad,2.3,0,22,1,8.8,7,1,2,0,0,IPL24 #71
+RR vs SRH,SRH,Shahbaz Ahamad,4,0,23,3,5.75,13,2,1,0,0,IPL24 #70
+SRH vs Punjab Kings,SRH,Shahbaz Ahamad,1,0,13,0,13,1,1,1,0,0,IPL24 #67
+SRH vs LSG,SRH,Shahbaz Ahamad,2,0,9,0,4.5,4,0,0,0,0,IPL24 #57
+MI vs SRH,SRH,Shahbaz Ahamad,1,0,11,0,11,1,2,0,0,0,IPL24 #55
+SRH vs RR,SRH,Shahbaz Ahamad,1,0,11,0,11,2,2,0,0,0,IPL24 #50
+CSK vs SRH,SRH,Shahbaz Ahamad,3,0,33,0,11,3,5,0,0,0,IPL24 #46
+SRH vs RCB,SRH,Shahbaz Ahamad,3,0,14,0,4.66,7,1,0,0,0,IPL24 #41
+DC vs SRH,SRH,Shahbaz Ahamad,1,0,22,0,22,0,3,1,0,0,IPL24 #35
+RCB vs SRH,SRH,Shahbaz Ahamad,1,0,18,0,18,1,1,2,0,0,IPL24 #30
+Punjab Kings vs SRH,SRH,Shahbaz Ahamad,1,0,10,0,10,1,0,1,0,0,IPL24 #23
+SRH vs CSK,SRH,Shahbaz Ahamad,1,0,11,1,11,3,1,1,0,0,IPL24 #18
+GT vs SRH,SRH,Shahbaz Ahamad,2,0,20,1,10,2,0,2,0,0,IPL24 #12
+SRH vs MI,SRH,Shahbaz Ahamad,3,0,39,1,13,5,1,4,0,0,IPL24 #8
+KKR vs SRH,SRH,Shahbaz Ahamad,1,0,14,0,14,2,1,1,0,1,IPL24 #3
+KKR vs LSG,LSG,Shamar Joseph,4,0,47,0,11.75,12,4,2,3,3,IPL24 #28
+SRH vs MI,MI,Shams Mulani,2,0,33,0,16.5,1,1,3,2,0,IPL24 #8
+GT vs MI,MI,Shams Mulani,3,0,24,0,8,6,1,1,1,0,IPL24 #5
+RCB vs CSK,CSK,Shardul Thakur,4,0,61,2,15.25,5,5,5,0,0,IPL24 #66
+CSK vs RR,CSK,Shardul Thakur,4,0,32,0,8,6,2,1,0,0,IPL24 #61
+GT vs CSK,CSK,Shardul Thakur,4,0,25,0,6.25,10,1,1,0,0,IPL24 #59
+Punjab Kings vs CSK,CSK,Shardul Thakur,2,0,12,1,6,4,1,0,1,0,IPL24 #53
+CSK vs Punjab Kings,CSK,Shardul Thakur,3.4,0,48,1,13.09,3,5,2,1,1,IPL24 #49
+CSK vs SRH,CSK,Shardul Thakur,4,0,27,1,6.75,8,3,0,0,1,IPL24 #46
+CSK vs LSG,CSK,Shardul Thakur,3,0,42,0,14,0,4,2,1,0,IPL24 #39
+MI vs CSK,CSK,Shardul Thakur,4,0,35,0,8.75,9,3,2,0,0,IPL24 #29
+CSK vs KKR,CSK,Shardul Thakur,3,0,27,0,9,3,3,0,1,1,IPL24 #22
+SRH vs Punjab Kings,Punjab Kings,Shashank Singh,1,0,5,1,5,1,0,0,0,0,IPL24 #67
+CSK vs Punjab Kings,CSK,Shivam Dube,1,0,14,1,14,1,1,1,0,0,IPL24 #49
+Punjab Kings vs MI,MI,Shreyas Gopal,2,0,26,1,13,1,0,3,0,0,IPL24 #33
+MI vs CSK,MI,Shreyas Gopal,1,0,9,1,9,2,0,1,0,0,IPL24 #29
+MI vs RCB,MI,Shreyas Gopal,4,0,32,1,8,7,0,2,0,0,IPL24 #25
+GT vs Punjab Kings,Punjab Kings,Sikandar Raza,2,0,22,0,11,2,4,0,0,0,IPL24 #17
+RCB vs CSK,CSK,Simranjeet Singh,1,0,19,0,19,0,2,1,2,0,IPL24 #66
+CSK vs RR,CSK,Simranjeet Singh,4,0,26,3,6.5,13,2,1,4,0,IPL24 #61
+GT vs CSK,CSK,Simranjeet Singh,4,0,60,0,15,4,3,5,2,0,IPL24 #59
+Punjab Kings vs CSK,CSK,Simranjeet Singh,3,0,16,2,5.33,11,1,1,0,0,IPL24 #53
+GT vs DC,GT,Spencer Johnson,2,0,22,1,11,6,3,1,2,0,IPL24 #32
+RR vs GT,GT,Spencer Johnson,4,0,37,0,9.25,6,4,1,0,0,IPL24 #24
+LSG vs GT,GT,Spencer Johnson,4,0,32,0,8,12,4,1,1,0,IPL24 #21
+CSK vs GT,GT,Spencer Johnson,4,0,35,1,8.75,8,3,2,0,0,IPL24 #7
+GT vs MI,GT,Spencer Johnson,2,0,25,2,12.5,3,2,2,0,0,IPL24 #5
+DC vs KKR,DC,Sumit Kumar ,2,0,19,0,9.5,2,1,1,0,0,IPL24 #16
+Punjab Kings vs DC,DC,Sumit Kumar ,1.2,0,19,0,14.25,2,2,1,2,0,IPL24 #2
+KKR vs SRH,KKR,Sunil Narine,4,0,16,1,4,9,0,0,0,0,IPL24 #71
+KKR vs SRH,KKR,Sunil Narine,4,0,40,1,10,7,2,3,0,0,IPL24 #68
+KKr vs MI,KKR,Sunil Narine,3,0,21,1,7,10,2,1,0,0,IPL24 #60
+LSG vs KKR,KKR,Sunil Narine,4,0,22,1,5.5,8,1,0,1,0,IPL24 #54
+MI vs KKR,KKR,Sunil Narine,4,0,22,2,5.5,11,2,0,1,0,IPL24 #51
+KKR vs DC,KKR,Sunil Narine,4,0,24,1,6,9,1,1,0,0,IPL24 #47
+KKR vs Punjab Kings,KKR,Sunil Narine,4,0,24,1,6,12,2,1,0,0,IPL24 #42
+KKR vs RCB,KKR,Sunil Narine,4,0,34,2,8.5,11,2,3,0,0,IPL24 #36
+KKR vs RR,KKR,Sunil Narine,4,0,30,2,7.5,12,1,2,2,0,IPL24 #31
+KKR vs LSG,KKR,Sunil Narine,4,0,17,1,4.25,7,0,0,0,0,IPL24 #28
+CSK vs KKR,KKR,Sunil Narine,4,0,30,1,7.5,5,1,1,0,0,IPL24 #22
+DC vs KKR,KKR,Sunil Narine,4,0,29,1,7.25,12,0,3,0,0,IPL24 #16
+RCB vs KKR,KKR,Sunil Narine,4,0,40,1,10,6,3,2,0,0,IPL24 #10
+KKR vs SRH,KKR,Sunil Narine,4,0,19,1,4.75,8,0,0,0,0,IPL24 #3
+KKR vs RCB,KKR,Suyash Sharma,2,0,33,0,16.5,2,2,3,1,0,IPL24 #36
+KKR vs SRH,KKR,Suyash Sharma,2,0,18,0,9,3,1,1,0,0,IPL24 #3
+RR vs RCB,RCB,Swapnil Singh,2,0,19,0,9.5,4,2,1,0,0,IPL24 #69
+RCB vs CSK,RCB,Swapnil Singh,2,0,13,0,6.5,1,0,0,1,0,IPL24 #66
+RCB vs DC,RCB,Swapnil Singh,1,0,9,1,9,2,0,1,0,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Swapnil Singh,3,0,28,2,9.33,7,5,0,0,0,IPL24 #58
+RCB vs GT,RCB,Swapnil Singh,1,0,1,0,1,5,0,0,0,0,IPL24 #52
+GT vs RCB,RCB,Swapnil Singh,3,0,23,1,7.66,5,3,0,0,0,IPL24 #45
+SRH vs RCB,RCB,Swapnil Singh,3,0,40,2,13.33,3,1,4,0,1,IPL24 #41
+KKR vs SRH,SRH,T Natarajan,2,0,29,0,14.5,2,4,1,2,0,IPL24 #71
+RR vs SRH,SRH,T Natarajan,3,0,13,1,4.33,13,2,0,1,0,IPL24 #70
+KKR vs SRH,SRH,T Natarajan,3,0,22,1,7.33,11,3,1,1,0,IPL24 #68
+SRH vs Punjab Kings,SRH,T Natarajan,4,0,33,2,8.25,8,3,1,2,0,IPL24 #67
+SRH vs LSG,SRH,T Natarajan,4,0,50,0,12.5,4,8,0,3,0,IPL24 #57
+MI vs SRH,SRH,T Natarajan,3.2,0,31,0,9.3,8,4,1,0,0,IPL24 #55
+SRH vs RR,SRH,T Natarajan,4,0,35,2,8.75,8,2,2,3,0,IPL24 #50
+CSK vs SRH,SRH,T Natarajan,4,0,43,1,10.75,8,3,3,3,0,IPL24 #46
+SRH vs RCB,SRH,T Natarajan,4,0,39,2,9.75,7,3,2,1,0,IPL24 #41
+DC vs SRH,SRH,T Natarajan,4,1,19,4,4.75,14,2,0,1,0,IPL24 #35
+RCB vs SRH,SRH,T Natarajan,4,0,47,1,11.75,6,2,3,4,0,IPL24 #30
+Punjab Kings vs SRH,SRH,T Natarajan,4,0,33,1,8.25,8,5,0,0,0,IPL24 #23
+SRH vs CSK,SRH,T Natarajan,4,0,39,1,9.75,6,3,2,0,0,IPL24 #18
+KKR vs SRH,SRH,T Natarajan,4,0,32,3,8,9,3,1,3,0,IPL24 #3
+RR vs MI,MI,Tilak Varma,0.4,0,8,0,12,0,1,0,0,0,IPL24 #38
+KKR vs SRH,SRH,Travis Head,1.4,0,32,0,19.2,2,3,3,0,0,IPL24 #68
+RR vs SRH,RR,Trent Boult,4,0,45,3,11.25,7,3,3,2,0,IPL24 #70
+RR vs RCB,RR,Trent Boult,4,0,16,1,4,14,1,0,0,0,IPL24 #69
+RR vs Punjab Kings,RR,Trent Boult,3,0,27,1,9,7,5,0,0,0,IPL24 #64
+CSK vs RR,RR,Trent Boult,2.2,0,24,0,10.28,6,3,1,1,0,IPL24 #61
+DC vs RR,RR,Trent Boult,4,0,48,1,12,8,7,2,0,0,IPL24 #56
+SRH vs RR,RR,Trent Boult,4,0,33,0,8.25,8,5,0,1,0,IPL24 #50
+LSG vs RR,RR,Trent Boult,4,0,41,1,10.25,9,6,0,2,0,IPL24 #44
+RR vs MI,RR,Trent Boult,4,0,32,2,8,10,3,1,3,0,IPL24 #38
+KKR vs RR,RR,Trent Boult,4,0,31,1,7.75,11,5,0,0,0,IPL24 #31
+Punjab Kings vs RR,RR,Trent Boult,4,0,22,1,5.5,11,2,0,2,0,IPL24 #27
+RR vs GT,RR,Trent Boult,2,0,8,0,4,7,1,0,0,0,IPL24 #24
+RR vs RCB,RR,Trent Boult,3,0,30,0,10,5,2,2,1,0,IPL24 #19
+MI vs RR,RR,Trent Boult,4,0,22,3,5.5,14,1,1,1,0,IPL24 #14
+RR vs DC,RR,Trent Boult,3,0,29,0,9.66,8,3,2,0,0,IPL24 #9
+RR vs LSG,RR,Trent Boult,4,0,35,2,8.75,12,4,2,0,0,IPL24 #4
+DC vs LSG,DC,Tristan Stubbs,1,0,4,1,4,3,0,0,0,0,IPL24 #63
+GT vs DC,DC,Tristan Stubbs,1,0,11,2,11,3,2,0,1,0,IPL24 #32
+RCB vs CSK,CSK,Tushar Deshpande,4,0,49,1,12.25,10,2,5,4,0,IPL24 #66
+CSK vs RR,CSK,Tushar Deshpande,4,0,30,2,7.5,10,1,2,0,0,IPL24 #61
+GT vs CSK,CSK,Tushar Deshpande,4,0,33,2,8.25,6,2,1,2,0,IPL24 #59
+Punjab Kings vs CSK,CSK,Tushar Deshpande,4,0,35,2,8.75,11,5,1,1,0,IPL24 #53
+CSK vs SRH,CSK,Tushar Deshpande,3,0,27,4,9,6,1,2,0,0,IPL24 #46
+CSK vs LSG,CSK,Tushar Deshpande,3,0,34,0,11.33,6,2,2,0,1,IPL24 #39
+LSG vs CSK,CSK,Tushar Deshpande,4,0,42,0,10.5,9,5,1,4,1,IPL24 #34
+MI vs CSK,CSK,Tushar Deshpande,4,0,29,1,7.25,9,3,1,0,0,IPL24 #29
+CSK vs KKR,CSK,Tushar Deshpande,4,0,33,3,8.25,12,4,1,2,0,IPL24 #22
+SRH vs CSK,CSK,Tushar Deshpande,2,0,20,0,10,5,4,0,0,0,IPL24 #18
+DC vs CSK,CSK,Tushar Deshpande,4,0,24,0,6,12,3,0,2,0,IPL24 #13
+CSK vs GT,CSK,Tushar Deshpande,4,0,21,2,5.25,12,1,1,0,0,IPL24 #7
+CSK vs RCB,CSK,Tushar Deshpande,4,0,47,0,11.75,10,4,3,5,0,IPL24 #1
+GT vs CSK,GT,Umesh Yadav,3,0,20,1,6.66,8,3,0,0,0,IPL24 #59
+RR vs GT,GT,Umesh Yadav,4,0,47,1,11.75,9,6,2,2,0,IPL24 #24
+LSG vs GT,GT,Umesh Yadav,3,0,22,2,7.33,11,2,1,0,0,IPL24 #21
+GT vs Punjab Kings,GT,Umesh Yadav,3,0,35,1,11.66,6,4,2,0,0,IPL24 #17
+GT vs SRH,GT,Umesh Yadav,3,0,28,1,9.33,8,5,0,0,0,IPL24 #12
+CSK vs GT,GT,Umesh Yadav,2,0,27,0,13.5,5,3,2,1,0,IPL24 #7
+GT vs MI,GT,Umesh Yadav,3,0,31,2,10.33,9,4,2,0,0,IPL24 #5
+SRH vs MI,SRH,Umran Malik,1,0,15,0,15,2,0,2,1,0,IPL24 #8
+KKR vs SRH,KKR,Vaibhav Arora,3,0,24,1,8,9,2,1,4,0,IPL24 #71
+KKR vs SRH,KKR,Vaibhav Arora,2,0,17,1,8.5,5,1,0,2,1,IPL24 #68
+KKr vs MI,KKR,Vaibhav Arora,2,0,16,0,8,7,1,1,1,1,IPL24 #60
+LSG vs KKR,KKR,Vaibhav Arora,2,0,21,0,10.5,4,2,1,1,0,IPL24 #54
+MI vs KKR,KKR,Vaibhav Arora,3,0,35,0,11.66,5,5,1,1,1,IPL24 #51
+KKR vs DC,KKR,Vaibhav Arora,4,0,29,2,7.25,15,4,1,2,1,IPL24 #47
+KKR vs RR,KKR,Vaibhav Arora,3,0,45,1,15,4,5,3,0,1,IPL24 #31
+KKR vs LSG,KKR,Vaibhav Arora,3,0,34,1,11.33,6,1,3,1,1,IPL24 #28
+CSK vs KKR,KKR,Vaibhav Arora,4,0,28,2,7,11,3,1,0,0,IPL24 #22
+DC vs KKR,KKR,Vaibhav Arora,4,0,27,3,6.75,13,4,0,3,0,IPL24 #16
+KKR vs SRH,KKR,Varun Chakravarty,2,0,9,1,4.5,7,1,0,0,0,IPL24 #71
+KKR vs SRH,KKR,Varun Chakravarty,4,0,26,2,6.5,9,1,1,1,1,IPL24 #68
+KKr vs MI,KKR,Varun Chakravarty,4,0,17,2,4.25,12,1,0,1,0,IPL24 #60
+LSG vs KKR,KKR,Varun Chakravarty,3,0,30,3,10,8,0,4,0,0,IPL24 #54
+MI vs KKR,KKR,Varun Chakravarty,4,0,22,2,5.5,11,2,0,0,0,IPL24 #51
+KKR vs DC,KKR,Varun Chakravarty,4,0,16,3,4,13,1,0,0,0,IPL24 #47
+KKR vs Punjab Kings,KKR,Varun Chakravarty,3,0,46,0,15.33,2,1,5,0,0,IPL24 #42
+KKR vs RCB,KKR,Varun Chakravarty,4,0,36,1,9,11,5,1,0,0,IPL24 #36
+KKR vs RR,KKR,Varun Chakravarty,4,0,36,2,9,11,5,1,1,0,IPL24 #31
+KKR vs LSG,KKR,Varun Chakravarty,4,0,30,1,7.5,9,1,2,2,0,IPL24 #28
+CSK vs KKR,KKR,Varun Chakravarty,4,0,26,0,6.5,11,0,2,0,0,IPL24 #22
+DC vs KKR,KKR,Varun Chakravarty,4,0,33,3,8.25,10,2,2,2,1,IPL24 #16
+RCB vs KKR,KKR,Varun Chakravarty,2,0,20,0,10,3,2,1,0,0,IPL24 #10
+KKR vs SRH,KKR,Varun Chakravarty,4,0,55,1,13.75,8,1,7,0,0,IPL24 #3
+DC vs KKR,KKR,Venkatesh Iyer,1,0,28,0,28,0,4,2,0,0,IPL24 #16
+Punjab Kings vs RCB,Punjab Kings,Vidwath Kaverappa,4,0,36,2,9,11,2,3,0,0,IPL24 #58
+KKR vs SRH,SRH,Vijayakanth Viyaskanth ,2,0,22,0,11,1,0,2,0,0,IPL24 #68
+SRH vs Punjab Kings,SRH,Vijayakanth Viyaskanth ,4,0,37,1,9.25,10,2,3,0,0,IPL24 #67
+SRH vs LSG,SRH,Vijayakanth Viyaskanth ,4,0,27,0,6.75,8,2,1,0,0,IPL24 #57
+RCB vs GT,RCB,Vijaykumar Vyshak ,3.3,0,23,2,6.57,10,2,1,1,0,IPL24 #52
+RCB vs SRH,RCB,Vijaykumar Vyshak ,4,0,64,0,16,2,6,4,2,0,IPL24 #30
+MI vs RCB,RCB,Vijaykumar Vyshak ,3,0,32,1,10.66,6,3,2,0,0,IPL24 #25
+RCB vs KKR,RCB,Vijaykumar Vyshak ,4,0,23,1,5.75,6,1,0,0,0,IPL24 #10
+DC vs SRH,SRH,Washington Sundar,2,0,46,1,23,2,7,3,0,0,IPL24 #35
+GT vs SRH,SRH,Washington Sundar,3,0,27,0,9,1,2,0,0,0,IPL24 #12
+RCB vs DC,RCB,Will Jacks,1,0,16,0,16,0,0,2,0,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Will Jacks,1,0,5,0,5,1,0,0,0,0,IPL24 #58
+SRH vs RCB,RCB,Will Jacks,2,0,23,1,11.5,3,1,2,0,0,IPL24 #41
+RCB vs SRH,RCB,Will Jacks,3,0,32,0,10.66,5,2,2,1,0,IPL24 #30
+MI vs RCB,RCB,Will Jacks,2,0,24,1,12,2,3,1,0,0,IPL24 #25
+RR vs RCB,RCB,Yash Dayal,3,0,37,0,12.33,5,8,0,0,0,IPL24 #69
+RCB vs CSK,RCB,Yash Dayal,4,0,42,2,10.5,9,4,3,0,0,IPL24 #66
+RCB vs DC,RCB,Yash Dayal,3.1,0,20,3,6.31,12,4,0,1,0,IPL24 #62
+Punjab Kings vs RCB,RCB,Yash Dayal,2,0,22,0,11,5,3,1,1,0,IPL24 #58
+RCB vs GT,RCB,Yash Dayal,4,0,21,2,5.25,11,2,0,0,0,IPL24 #52
+GT vs RCB,RCB,Yash Dayal,4,0,34,0,8.5,9,2,1,3,1,IPL24 #45
+SRH vs RCB,RCB,Yash Dayal,3,0,18,1,6,8,1,0,3,0,IPL24 #41
+KKR vs RCB,RCB,Yash Dayal,4,0,56,2,14,7,9,1,3,1,IPL24 #36
+RCB vs SRH,RCB,Yash Dayal,4,0,51,0,12.75,5,3,3,3,1,IPL24 #30
+RR vs RCB,RCB,Yash Dayal,4,0,37,1,9.25,10,5,1,0,0,IPL24 #19
+RCB vs LSG,RCB,Yash Dayal,4,0,24,1,6,12,2,1,0,0,IPL24 #15
+RCB vs KKR,RCB,Yash Dayal,4,0,46,1,11.5,8,4,2,2,0,IPL24 #10
+RCB vs Punjab Kings,RCB,Yash Dayal,4,0,23,1,5.75,13,3,0,2,0,IPL24 #6
+CSK vs RCB,RCB,Yash Dayal,3,0,28,1,9.33,8,3,1,0,0,IPL24 #1
+SRH vs LSG,LSG,Yash Thakur,2.4,0,47,0,17.62,4,6,3,1,0,IPL24 #57
+LSG vs KKR,LSG,Yash Thakur,4,0,46,1,11.5,7,3,3,3,0,IPL24 #54
+LSG vs RR,LSG,Yash Thakur,4,0,50,1,12.5,4,7,1,2,0,IPL24 #44
+CSK vs LSG,LSG,Yash Thakur,4,0,47,1,11.75,9,3,4,1,0,IPL24 #39
+LSG vs CSK,LSG,Yash Thakur,4,0,45,1,11.25,6,6,1,0,0,IPL24 #34
+KKR vs LSG,LSG,Yash Thakur,2,0,25,0,12.5,3,5,0,1,0,IPL24 #28
+LSG vs DC,LSG,Yash Thakur,4,0,31,1,7.75,11,1,2,0,0,IPL24 #26
+LSG vs GT,LSG,Yash Thakur,3.5,1,30,5,7.82,14,3,2,2,0,IPL24 #21
+RCB vs LSG,LSG,Yash Thakur,4,0,38,1,9.5,7,2,3,0,0,IPL24 #15
+RR vs LSG,LSG,Yash Thakur,3,0,43,0,14.33,3,1,4,1,1,IPL24 #4
+DC vs LSG,LSG,Yudhvir Singh,2,0,28,0,14,3,3,1,0,0,IPL24 #63
+LSG vs KKR,LSG,Yudhvir Singh,2,0,24,1,12,2,1,2,0,0,IPL24 #54
+RR vs SRH,RR,Yuzvendra Chahal,4,0,34,0,8.5,9,0,3,2,0,IPL24 #70
+RR vs RCB,RR,Yuzvendra Chahal,4,0,43,1,10.75,7,2,4,0,0,IPL24 #69
+RR vs Punjab Kings,RR,Yuzvendra Chahal,4,0,31,2,7.75,5,3,0,1,0,IPL24 #64
+CSK vs RR,RR,Yuzvendra Chahal,4,0,22,1,5.5,8,1,0,1,0,IPL24 #61
+DC vs RR,RR,Yuzvendra Chahal,4,0,48,1,12,5,4,3,0,0,IPL24 #56
+SRH vs RR,RR,Yuzvendra Chahal,4,0,62,0,15.5,6,4,6,1,0,IPL24 #50
+LSG vs RR,RR,Yuzvendra Chahal,4,0,41,0,10.25,3,5,0,1,0,IPL24 #44
+RR vs MI,RR,Yuzvendra Chahal,4,0,48,1,12,6,4,3,1,0,IPL24 #38
+KKR vs RR,RR,Yuzvendra Chahal,4,0,54,1,13.5,4,4,4,1,0,IPL24 #31
+Punjab Kings vs RR,RR,Yuzvendra Chahal,4,0,31,1,7.75,6,0,2,2,1,IPL24 #27
+RR vs GT,RR,Yuzvendra Chahal,4,0,43,2,10.75,4,6,0,1,0,IPL24 #24
+RR vs RCB,RR,Yuzvendra Chahal,4,0,34,2,8.5,8,1,2,1,0,IPL24 #19
+MI vs RR,RR,Yuzvendra Chahal,4,0,11,3,2.75,16,1,0,0,0,IPL24 #14
+RR vs DC,RR,Yuzvendra Chahal,3,0,19,2,6.33,7,0,1,0,0,IPL24 #9
+RR vs LSG,RR,Yuzvendra Chahal,3,0,25,1,8.33,6,0,2,1,0,IPL24 #4

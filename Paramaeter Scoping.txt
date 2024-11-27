@@ -1,0 +1,49 @@
+Power Hitter / Openers
+
+Total Innings batted >10
+Strike Rate  > 150
+Boundary % >70
+Batting Position <4
+Batting Average > 30
+
+Anchor / Middle Order
+Batting Average > 40
+Batting Position >3 and <=6
+Boundary % >60
+Strike Rate  > 140
+Total Innings batted >7
+
+Finisher /Lower Order Anchor
+Batting Average > 25
+Batting Position >=5
+Boundary % >50
+Strike Rate  > 130
+Total Innings batted >=5
+Total Innings bowled >=10
+
+All Rounders / Lower Middle Order
+Average Balls Faced >=10
+Batting Average > 15
+Batting Position >=4
+Boundary % >50
+Strike Rate  > 120
+Total Innings batted >=2
+Total Balls Faced >=12
+Total Innings bowled >=5
+
+Specialist Bowler/Tail End
+Bowling Economy >10
+Dot Ball % >=40%
+Total Innings bowled >=10
+Wickets >=15
+
+
+
+
+
+
+
+
+
+
+
