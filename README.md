@@ -1,4 +1,4 @@
-# Ipl2024-Review | Stadium Stats: Decoding-IPL-2024-Heroes
+# IPL2024-Review | Stadium Stats: Decoding-IPL-2024-Heroes
 This repository showcases a data analysis project involving web scraping, data cleaning, data transformation, and dashboard creation using tools like Excel and Power BI.
 This repository demonstrates a detailed data analysis project focused on cricket statistics, particularly exploring batting and bowling performances in the IPL (Indian Premier League). The project involved data collection, cleaning, transformation, and the creation of an interactive Power BI dashboard.
 
